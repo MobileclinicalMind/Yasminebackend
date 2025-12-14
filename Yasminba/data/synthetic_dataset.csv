@@ -1,0 +1,1501 @@
+disease,age,severity,symptoms,duration_days,hospitalizations_last_year,functional_score,bmi,session_count
+hypertension,58,2,"fatigue, vertiges, maux de tête, acouphènes",39,0,55,25.8,9
+diabetes,33,3,"fatigue, vision trouble, polyurie, soif excessive",83,0,56,27.1,10
+arthritis,53,2,"douleur articulaire, limitation",14,1,68,31.2,10
+depression,61,2,"perte d'intérêt, tristesse, insomnie, anxiété",7,0,59,31.7,16
+depression,64,1,"tristesse, anxiété, perte d'intérêt, insomnie",11,0,33,28.0,13
+asthma,53,2,"toux, sifflements",14,0,53,24.7,8
+hypertension,16,1,"vertiges, fatigue, acouphènes, maux de tête",10,0,72,22.5,3
+eczema,60,1,"rougeur, lésions, sécheresse, prurit",13,1,57,19.1,4
+hypertension,33,3,"maux de tête, vertiges",8,0,47,28.7,6
+covid19,68,4,"fièvre, toux sèche, myalgies, anosmie",8,0,60,23.1,12
+copd,55,4,"toux chronique, infections, dyspnée",10,0,30,25.9,13
+diabetes,44,2,"vision trouble, soif excessive",51,1,30,18.0,10
+diabetes,58,2,"polyurie, fatigue",11,0,41,34.0,9
+hypertension,49,3,"fatigue, acouphènes, vertiges",1,0,100,26.0,8
+depression,88,4,"tristesse, anxiété",2,0,74,23.9,18
+depression,42,2,"insomnie, tristesse, perte d'intérêt",21,1,67,21.5,9
+eczema,37,2,"rougeur, sécheresse, prurit, lésions",84,0,84,27.3,4
+covid19,24,1,"toux sèche, myalgies, fièvre, anosmie",5,1,74,27.3,6
+diabetes,73,1,"polyurie, fatigue, soif excessive, vision trouble",68,2,64,31.2,12
+eczema,28,4,"lésions, rougeur, prurit, sécheresse",7,1,86,32.8,6
+depression,34,3,"perte d'intérêt, tristesse, insomnie, anxiété",13,0,77,25.8,17
+eczema,51,1,"sécheresse, prurit",38,0,59,27.2,3
+copd,60,2,"expectoration, toux chronique",41,1,100,34.7,14
+depression,43,1,"perte d'intérêt, tristesse, insomnie",24,2,49,28.2,10
+migraine,69,3,"céphalées, aura, nausées, photophobie",40,1,32,22.3,10
+covid19,100,3,"myalgies, fièvre, toux sèche, anosmie",36,2,82,23.1,12
+arthritis,91,1,"gonflement, raideur",10,0,50,32.4,12
+diabetes,27,5,"vision trouble, fatigue, soif excessive, polyurie",30,2,96,32.2,13
+asthma,36,2,"oppression thoracique, toux, sifflements",2,0,52,27.8,5
+copd,46,3,"dyspnée, expectoration, infections",32,0,100,21.1,10
+heart_failure,62,3,"prise de poids, fatigue, œdèmes",12,0,51,27.7,19
+arthritis,24,4,"douleur articulaire, raideur",32,0,60,28.0,10
+asthma,15,4,"sifflements, toux, oppression thoracique, essoufflement",30,0,73,27.4,7
+depression,53,4,"perte d'intérêt, insomnie",1,1,50,28.8,15
+heart_failure,64,3,"prise de poids, dyspnée",9,0,74,30.1,15
+hypertension,70,4,"fatigue, acouphènes",42,0,51,27.1,14
+hypertension,57,2,"fatigue, vertiges",33,0,42,26.9,11
+copd,64,3,"expectoration, toux chronique",2,0,72,27.4,12
+hypertension,35,2,"maux de tête, fatigue, vertiges",4,1,51,28.0,10
+heart_failure,41,2,"prise de poids, dyspnée, fatigue, œdèmes",2,1,87,31.3,13
+heart_failure,49,2,"prise de poids, œdèmes",1,0,66,22.9,12
+covid19,57,3,"anosmie, toux sèche, fièvre, myalgies",7,1,51,27.3,12
+arthritis,58,3,"raideur, douleur articulaire, limitation",22,1,100,23.2,9
+diabetes,39,2,"vision trouble, soif excessive",5,1,45,23.2,7
+migraine,81,1,"céphalées, nausées",9,0,93,18.3,4
+eczema,68,2,"rougeur, lésions, prurit, sécheresse",45,0,36,23.9,9
+hypertension,53,2,"acouphènes, vertiges, fatigue, maux de tête",22,2,78,31.1,8
+copd,35,1,"toux chronique, infections, expectoration, dyspnée",63,1,46,18.0,7
+hypertension,39,5,"maux de tête, acouphènes, fatigue",16,1,64,27.2,11
+eczema,52,3,"prurit, sécheresse",17,1,94,36.5,8
+arthritis,58,3,"douleur articulaire, raideur, limitation",2,0,29,33.0,13
+covid19,12,5,"myalgies, toux sèche, fièvre, anosmie",15,1,37,23.2,14
+heart_failure,41,2,"prise de poids, fatigue",1,0,43,24.2,10
+covid19,46,3,"anosmie, fièvre, toux sèche, myalgies",35,0,14,29.6,13
+depression,65,2,"tristesse, anxiété, perte d'intérêt",41,0,49,20.9,11
+hypertension,10,4,"fatigue, maux de tête, acouphènes",67,0,40,22.1,9
+diabetes,35,1,"vision trouble, polyurie, fatigue",14,0,38,23.7,6
+depression,12,4,"tristesse, insomnie",19,0,33,29.0,17
+arthritis,34,1,"limitation, gonflement, raideur",31,0,32,29.8,6
+hypertension,41,2,"maux de tête, acouphènes, fatigue, vertiges",5,1,42,18.0,7
+depression,39,3,"tristesse, anxiété",5,2,26,29.7,13
+hypertension,61,3,"vertiges, maux de tête",36,1,94,30.8,11
+copd,36,1,"expectoration, infections",23,0,72,21.9,8
+arthritis,75,1,"limitation, raideur, douleur articulaire, gonflement",12,3,44,27.8,11
+migraine,60,3,"photophobie, nausées, céphalées",41,2,73,20.5,11
+heart_failure,64,5,"œdèmes, prise de poids",68,1,52,37.0,20
+asthma,36,3,"essoufflement, sifflements, toux, oppression thoracique",7,0,22,23.2,11
+heart_failure,49,3,"prise de poids, dyspnée",45,0,80,30.3,14
+heart_failure,51,1,"prise de poids, œdèmes",14,0,61,39.5,16
+depression,67,4,"tristesse, anxiété, insomnie",23,0,80,21.7,13
+arthritis,33,1,"limitation, raideur",88,0,63,40.0,12
+hypertension,60,3,"acouphènes, fatigue",4,0,68,20.3,12
+covid19,38,2,"toux sèche, myalgies, anosmie, fièvre",6,1,38,23.4,6
+asthma,61,3,"toux, oppression thoracique, sifflements, essoufflement",3,0,86,19.2,2
+eczema,29,2,"rougeur, lésions",5,0,76,26.2,1
+depression,59,2,"tristesse, insomnie, perte d'intérêt, anxiété",173,0,56,23.6,13
+asthma,47,3,"sifflements, oppression thoracique, toux",6,0,100,21.5,8
+migraine,2,1,"céphalées, aura, photophobie, nausées",24,0,35,28.4,2
+copd,51,4,"expectoration, toux chronique, infections, dyspnée",48,3,27,28.7,14
+arthritis,68,4,"limitation, raideur, douleur articulaire",24,1,63,27.1,14
+eczema,38,1,"rougeur, lésions, sécheresse",67,0,26,35.8,3
+depression,35,4,"tristesse, anxiété, insomnie, perte d'intérêt",9,1,24,18.0,17
+heart_failure,43,3,"fatigue, prise de poids",25,1,58,20.3,13
+diabetes,79,3,"fatigue, vision trouble",16,0,35,28.5,15
+depression,74,3,"perte d'intérêt, anxiété, insomnie, tristesse",20,0,58,18.0,13
+diabetes,67,4,"polyurie, fatigue, soif excessive",5,1,80,28.9,10
+heart_failure,45,4,"fatigue, prise de poids, dyspnée",74,1,57,29.8,19
+copd,22,2,"expectoration, dyspnée",27,0,46,25.2,10
+arthritis,85,2,"douleur articulaire, gonflement, limitation, raideur",17,0,69,29.7,11
+hypertension,38,3,"maux de tête, acouphènes",22,0,80,33.4,11
+depression,48,1,"anxiété, perte d'intérêt, tristesse, insomnie",7,2,68,28.0,9
+covid19,68,2,"myalgies, fièvre",59,1,73,20.0,9
+heart_failure,4,4,"fatigue, œdèmes, prise de poids",15,0,63,33.9,11
+depression,63,2,"tristesse, insomnie, perte d'intérêt, anxiété",18,1,79,24.8,10
+migraine,72,2,"aura, nausées, photophobie, céphalées",15,0,78,28.6,4
+copd,18,1,"dyspnée, expectoration, infections",3,0,75,22.0,4
+migraine,15,1,"céphalées, aura, nausées, photophobie",34,0,56,22.9,0
+asthma,56,3,"sifflements, toux, oppression thoracique",28,0,69,23.8,7
+arthritis,38,4,"limitation, raideur, gonflement",1,4,88,24.1,16
+asthma,38,1,"toux, oppression thoracique",9,0,42,26.7,4
+depression,32,1,"insomnie, anxiété",1,1,71,27.2,9
+eczema,71,5,"lésions, sécheresse",52,0,49,30.4,15
+eczema,60,4,"prurit, lésions, rougeur, sécheresse",57,2,81,32.8,10
+arthritis,52,4,"douleur articulaire, raideur",5,2,43,28.0,14
+covid19,61,5,"fièvre, toux sèche, myalgies",45,0,64,34.9,16
+copd,62,3,"infections, dyspnée, expectoration",88,0,47,30.8,17
+covid19,86,2,"fièvre, myalgies, anosmie, toux sèche",27,0,82,24.7,9
+copd,27,3,"expectoration, toux chronique, infections",52,0,83,29.3,12
+heart_failure,61,2,"prise de poids, fatigue, dyspnée, œdèmes",16,1,77,26.0,14
+depression,45,4,"tristesse, perte d'intérêt, insomnie, anxiété",19,1,53,28.7,16
+asthma,61,4,"oppression thoracique, toux, essoufflement",4,0,63,30.5,10
+eczema,82,2,"rougeur, sécheresse, prurit, lésions",1,0,31,31.2,7
+migraine,41,1,"aura, photophobie, nausées",27,0,75,29.1,3
+hypertension,57,3,"acouphènes, vertiges, maux de tête",1,0,41,24.0,7
+diabetes,68,3,"polyurie, fatigue, vision trouble, soif excessive",2,1,72,22.1,12
+hypertension,52,5,"vertiges, maux de tête, fatigue, acouphènes",28,0,87,33.3,14
+asthma,61,5,"toux, sifflements, essoufflement, oppression thoracique",27,1,93,24.7,11
+asthma,57,3,"toux, sifflements, oppression thoracique",32,0,48,35.6,12
+copd,29,3,"dyspnée, infections, toux chronique, expectoration",34,0,81,26.4,7
+covid19,33,1,"anosmie, fièvre, myalgies, toux sèche",38,0,100,18.8,2
+hypertension,59,1,"maux de tête, acouphènes, fatigue, vertiges",29,1,69,28.3,3
+copd,56,2,"infections, toux chronique, expectoration",3,0,45,34.7,16
+copd,56,2,"expectoration, toux chronique",8,1,50,28.7,12
+covid19,26,4,"toux sèche, anosmie, fièvre",16,0,50,34.5,13
+migraine,65,4,"céphalées, nausées",19,2,53,28.9,11
+eczema,37,2,"sécheresse, rougeur, prurit",81,0,39,24.1,4
+arthritis,52,3,"douleur articulaire, raideur, gonflement",60,0,17,40.0,15
+eczema,52,2,"prurit, lésions, sécheresse, rougeur",39,0,51,31.0,4
+diabetes,53,3,"soif excessive, polyurie, vision trouble",43,0,72,27.7,12
+hypertension,36,2,"maux de tête, acouphènes",61,1,66,29.8,9
+eczema,68,3,"rougeur, lésions, prurit",43,1,56,27.6,6
+arthritis,24,4,"limitation, douleur articulaire, gonflement",14,0,43,23.8,8
+heart_failure,58,1,"prise de poids, fatigue, dyspnée",42,0,72,27.3,10
+hypertension,22,4,"vertiges, fatigue, maux de tête, acouphènes",22,1,23,30.0,13
+arthritis,63,3,"gonflement, limitation, douleur articulaire",8,1,56,29.8,11
+copd,32,4,"dyspnée, infections",23,0,47,34.6,16
+asthma,30,3,"sifflements, essoufflement",58,1,78,23.7,6
+migraine,70,1,"nausées, céphalées, aura, photophobie",1,1,61,33.6,8
+diabetes,27,2,"polyurie, vision trouble, soif excessive",45,0,54,33.2,8
+arthritis,88,1,"gonflement, limitation, douleur articulaire, raideur",40,1,66,33.1,14
+eczema,40,3,"lésions, sécheresse, prurit",4,0,93,31.6,8
+asthma,40,1,"toux, sifflements",70,1,80,32.7,9
+eczema,70,1,"sécheresse, prurit, rougeur",17,1,63,24.0,1
+hypertension,56,4,"maux de tête, acouphènes, vertiges",154,1,35,25.7,17
+arthritis,51,3,"gonflement, raideur, douleur articulaire, limitation",42,0,28,18.0,12
+eczema,60,1,"prurit, sécheresse, lésions",146,1,53,27.4,8
+covid19,40,3,"myalgies, fièvre",52,1,44,20.3,5
+depression,59,1,"anxiété, insomnie, tristesse",27,0,16,27.0,13
+asthma,51,2,"oppression thoracique, essoufflement",14,3,49,25.8,6
+heart_failure,73,3,"fatigue, prise de poids, dyspnée",51,0,63,39.3,19
+asthma,4,3,"essoufflement, oppression thoracique",4,0,70,27.3,3
+eczema,47,1,"lésions, sécheresse, prurit, rougeur",28,1,71,23.6,2
+eczema,39,2,"prurit, rougeur",3,0,66,23.9,4
+diabetes,71,4,"fatigue, vision trouble, soif excessive, polyurie",22,0,30,20.2,13
+covid19,42,1,"myalgies, toux sèche, fièvre",99,0,55,21.8,4
+heart_failure,60,1,"prise de poids, œdèmes, dyspnée, fatigue",53,1,80,20.1,10
+migraine,37,2,"nausées, photophobie",4,1,81,29.7,6
+diabetes,47,3,"soif excessive, fatigue",49,0,63,28.6,11
+hypertension,63,3,"fatigue, vertiges",30,1,36,27.3,11
+heart_failure,53,1,"prise de poids, fatigue",12,1,40,24.7,12
+arthritis,35,4,"limitation, douleur articulaire, raideur",1,0,72,33.6,12
+depression,33,3,"anxiété, tristesse, insomnie, perte d'intérêt",22,0,84,34.3,16
+diabetes,35,3,"polyurie, soif excessive, fatigue",14,0,37,25.2,11
+depression,47,1,"anxiété, tristesse, insomnie",50,3,78,25.8,14
+covid19,70,2,"fièvre, toux sèche",9,0,49,28.6,9
+hypertension,23,3,"fatigue, vertiges, maux de tête, acouphènes",23,0,74,18.0,6
+hypertension,55,4,"vertiges, acouphènes",42,0,54,26.9,14
+migraine,42,3,"céphalées, nausées, aura",39,1,31,33.0,8
+hypertension,23,1,"acouphènes, maux de tête, vertiges",4,0,43,18.0,4
+eczema,34,2,"prurit, lésions, rougeur",15,1,36,24.3,5
+asthma,68,3,"oppression thoracique, toux, sifflements",9,1,82,23.8,4
+asthma,64,2,"toux, essoufflement, oppression thoracique, sifflements",17,0,42,29.4,6
+migraine,53,3,"photophobie, céphalées, nausées",16,1,55,22.2,10
+eczema,77,2,"rougeur, lésions",12,0,37,27.7,4
+asthma,41,1,"essoufflement, sifflements",61,1,56,34.0,7
+arthritis,43,1,"gonflement, raideur, douleur articulaire, limitation",39,1,56,22.0,7
+eczema,32,1,"rougeur, sécheresse, prurit",46,1,83,25.8,4
+covid19,86,1,"fièvre, toux sèche, anosmie, myalgies",44,0,38,30.9,8
+copd,21,2,"expectoration, toux chronique",39,1,37,29.8,10
+depression,79,3,"perte d'intérêt, anxiété, tristesse, insomnie",23,1,48,32.1,13
+eczema,25,3,"prurit, sécheresse",56,0,68,22.6,4
+depression,70,1,"perte d'intérêt, insomnie, tristesse, anxiété",46,0,80,27.4,11
+arthritis,65,2,"raideur, limitation, douleur articulaire",23,1,40,29.3,14
+copd,56,5,"toux chronique, infections, dyspnée, expectoration",2,0,100,23.2,11
+heart_failure,10,1,"œdèmes, fatigue",2,0,49,24.4,11
+migraine,25,1,"céphalées, aura, nausées, photophobie",24,0,81,19.2,3
+eczema,95,3,"prurit, sécheresse",1,0,75,29.8,10
+migraine,40,1,"photophobie, aura",38,0,59,22.7,3
+hypertension,40,1,"vertiges, fatigue, maux de tête",108,0,69,25.8,6
+depression,63,1,"perte d'intérêt, anxiété, tristesse",51,1,43,24.7,11
+depression,65,2,"anxiété, insomnie, perte d'intérêt",40,0,37,37.1,16
+hypertension,49,1,"acouphènes, fatigue, maux de tête, vertiges",33,0,66,24.7,6
+heart_failure,60,2,"œdèmes, prise de poids, fatigue, dyspnée",9,1,21,27.6,18
+diabetes,26,3,"fatigue, soif excessive, vision trouble, polyurie",32,0,73,28.4,11
+covid19,19,1,"toux sèche, myalgies, fièvre",59,0,65,26.7,4
+eczema,48,3,"prurit, lésions, rougeur, sécheresse",54,2,77,29.8,12
+depression,56,5,"perte d'intérêt, tristesse",3,0,59,25.5,15
+covid19,30,4,"fièvre, anosmie",66,0,94,26.5,9
+depression,51,4,"anxiété, perte d'intérêt",1,1,65,30.2,11
+diabetes,62,2,"fatigue, vision trouble",44,0,23,26.3,13
+hypertension,60,4,"maux de tête, acouphènes, fatigue, vertiges",33,0,74,23.6,13
+diabetes,61,5,"fatigue, soif excessive, vision trouble",2,0,62,24.8,11
+depression,4,1,"anxiété, insomnie",19,1,34,18.0,7
+hypertension,55,2,"vertiges, acouphènes",17,0,24,24.5,8
+diabetes,34,3,"vision trouble, fatigue, polyurie, soif excessive",12,0,59,32.4,11
+heart_failure,38,1,"fatigue, dyspnée, œdèmes, prise de poids",15,2,22,31.6,13
+hypertension,52,2,"vertiges, fatigue, acouphènes",34,0,43,18.0,9
+eczema,41,3,"lésions, prurit, rougeur",33,1,56,26.5,6
+depression,67,3,"perte d'intérêt, anxiété",38,0,37,27.5,15
+arthritis,16,2,"gonflement, limitation",3,0,61,33.3,6
+migraine,44,4,"photophobie, céphalées, nausées",2,0,65,32.3,6
+depression,37,1,"perte d'intérêt, insomnie",27,1,83,21.5,7
+eczema,54,1,"sécheresse, rougeur, lésions, prurit",14,0,85,24.5,2
+asthma,71,3,"essoufflement, oppression thoracique, toux",24,0,83,21.4,8
+covid19,47,3,"anosmie, myalgies, toux sèche",15,0,59,21.1,5
+covid19,23,1,"toux sèche, anosmie, fièvre",158,0,35,28.0,5
+migraine,49,3,"céphalées, nausées, aura, photophobie",22,0,73,24.5,5
+depression,60,5,"insomnie, perte d'intérêt",8,1,61,28.5,16
+migraine,40,3,"photophobie, aura, nausées, céphalées",45,1,81,23.8,6
+copd,48,3,"dyspnée, toux chronique, expectoration, infections",4,0,65,18.6,12
+depression,55,4,"tristesse, insomnie, perte d'intérêt",1,1,60,30.3,22
+hypertension,27,1,"fatigue, maux de tête, acouphènes, vertiges",27,1,98,29.7,5
+hypertension,57,4,"fatigue, maux de tête, vertiges, acouphènes",93,0,83,26.0,12
+copd,1,3,"toux chronique, dyspnée, infections",1,0,63,32.6,12
+heart_failure,32,1,"prise de poids, dyspnée, fatigue, œdèmes",48,0,79,29.6,13
+copd,59,2,"expectoration, toux chronique, infections",42,1,68,29.9,13
+copd,32,4,"expectoration, dyspnée, toux chronique",34,0,69,18.0,10
+migraine,56,2,"nausées, céphalées, photophobie, aura",19,0,72,31.9,9
+diabetes,21,2,"soif excessive, polyurie, vision trouble, fatigue",4,0,61,25.3,7
+hypertension,25,2,"maux de tête, acouphènes, fatigue",38,1,71,28.1,9
+diabetes,36,1,"fatigue, polyurie, vision trouble, soif excessive",10,0,46,34.8,10
+copd,64,2,"infections, dyspnée, toux chronique",3,0,29,30.5,15
+heart_failure,32,5,"fatigue, dyspnée, œdèmes",12,1,63,21.7,17
+hypertension,61,3,"fatigue, vertiges, acouphènes, maux de tête",33,0,56,27.4,9
+depression,42,2,"anxiété, perte d'intérêt, insomnie, tristesse",62,0,46,25.0,12
+depression,44,2,"anxiété, tristesse, insomnie",13,1,62,19.8,6
+depression,40,2,"anxiété, perte d'intérêt",43,0,66,28.5,13
+eczema,73,3,"sécheresse, lésions, prurit",1,0,75,27.7,7
+migraine,68,3,"aura, nausées",45,0,65,23.8,9
+asthma,64,1,"essoufflement, sifflements, toux",70,0,83,30.1,7
+copd,45,4,"dyspnée, infections, toux chronique, expectoration",9,0,44,27.7,14
+asthma,26,1,"toux, sifflements, oppression thoracique, essoufflement",40,0,34,31.8,9
+arthritis,56,3,"raideur, douleur articulaire, gonflement, limitation",23,1,41,23.7,10
+migraine,35,5,"photophobie, nausées, aura",19,0,57,29.7,10
+depression,63,4,"insomnie, tristesse, anxiété, perte d'intérêt",67,1,78,27.3,18
+hypertension,33,2,"fatigue, vertiges, maux de tête",35,2,61,18.6,5
+migraine,40,3,"céphalées, aura, photophobie",9,1,15,34.7,7
+eczema,45,2,"lésions, prurit",97,0,71,19.0,4
+hypertension,53,2,"acouphènes, vertiges, maux de tête, fatigue",119,0,68,27.1,12
+diabetes,46,3,"soif excessive, polyurie, fatigue",32,0,34,34.4,14
+eczema,27,3,"rougeur, sécheresse, prurit, lésions",11,2,51,26.7,5
+diabetes,38,3,"vision trouble, fatigue",149,0,56,23.8,14
+hypertension,51,3,"acouphènes, fatigue",13,1,20,31.5,10
+depression,63,1,"perte d'intérêt, insomnie, tristesse, anxiété",16,1,74,18.0,8
+asthma,65,2,"oppression thoracique, sifflements, essoufflement, toux",56,0,73,29.7,7
+copd,31,2,"toux chronique, expectoration",30,0,61,30.4,10
+migraine,66,3,"photophobie, nausées, aura, céphalées",13,1,47,26.8,10
+migraine,41,2,"céphalées, photophobie, nausées, aura",108,0,60,21.6,3
+depression,62,1,"insomnie, tristesse",40,1,38,21.0,10
+copd,29,4,"toux chronique, infections, dyspnée, expectoration",32,0,25,36.0,16
+diabetes,60,3,"soif excessive, vision trouble",1,0,28,31.0,13
+asthma,32,1,"essoufflement, toux",81,1,63,25.4,8
+copd,61,3,"expectoration, infections",9,1,34,20.9,14
+diabetes,70,4,"soif excessive, vision trouble, polyurie",11,0,17,18.0,14
+copd,22,2,"dyspnée, expectoration, toux chronique",36,1,96,27.2,9
+arthritis,74,1,"raideur, limitation, douleur articulaire",60,0,54,21.4,6
+migraine,46,2,"nausées, aura",82,2,46,24.5,5
+arthritis,25,1,"limitation, gonflement, douleur articulaire, raideur",39,0,82,24.3,2
+copd,47,2,"dyspnée, toux chronique, expectoration, infections",86,1,36,29.6,12
+eczema,40,2,"sécheresse, lésions, prurit",117,0,26,20.4,5
+migraine,77,2,"céphalées, aura, photophobie, nausées",36,0,37,18.7,3
+asthma,47,4,"essoufflement, toux, sifflements",103,0,34,26.6,11
+depression,52,1,"perte d'intérêt, insomnie, anxiété",30,1,26,37.7,18
+arthritis,32,1,"limitation, gonflement, raideur, douleur articulaire",1,1,88,27.3,7
+depression,63,4,"anxiété, tristesse, perte d'intérêt, insomnie",40,0,59,37.5,19
+diabetes,55,3,"polyurie, soif excessive, fatigue",17,1,86,36.8,14
+covid19,69,3,"myalgies, anosmie, fièvre",1,1,40,18.0,6
+eczema,72,3,"sécheresse, prurit, lésions, rougeur",14,0,53,31.6,7
+diabetes,67,2,"vision trouble, polyurie",16,0,48,32.4,14
+heart_failure,45,4,"dyspnée, prise de poids, fatigue",20,0,68,28.9,16
+diabetes,58,4,"soif excessive, vision trouble, polyurie, fatigue",6,0,43,18.0,15
+diabetes,31,2,"soif excessive, vision trouble, fatigue, polyurie",5,0,50,29.7,7
+covid19,37,3,"toux sèche, anosmie, myalgies, fièvre",10,0,61,18.7,9
+migraine,41,2,"photophobie, nausées, céphalées, aura",73,1,80,27.4,2
+eczema,45,1,"lésions, rougeur, prurit",24,0,67,25.4,3
+eczema,60,5,"rougeur, sécheresse, lésions, prurit",5,1,37,21.8,11
+asthma,52,5,"essoufflement, toux, oppression thoracique",5,0,54,29.1,12
+diabetes,43,1,"soif excessive, polyurie, vision trouble, fatigue",8,0,49,33.0,8
+eczema,59,3,"lésions, rougeur, prurit",34,0,44,30.2,7
+hypertension,51,3,"acouphènes, fatigue",20,1,66,27.1,10
+asthma,69,3,"toux, oppression thoracique, essoufflement, sifflements",90,1,68,31.3,13
+hypertension,33,3,"fatigue, acouphènes, maux de tête, vertiges",35,1,71,25.7,9
+covid19,26,2,"fièvre, myalgies, toux sèche",57,1,56,23.5,6
+hypertension,39,3,"acouphènes, fatigue",56,0,45,26.8,10
+depression,48,2,"perte d'intérêt, tristesse, anxiété, insomnie",2,1,42,34.3,13
+copd,61,3,"dyspnée, expectoration, infections",14,1,66,18.7,15
+hypertension,51,4,"fatigue, maux de tête",4,1,45,29.6,11
+covid19,37,1,"myalgies, toux sèche",44,1,99,23.0,6
+depression,74,1,"tristesse, anxiété",6,0,78,31.3,14
+covid19,42,4,"anosmie, myalgies",9,1,71,27.9,12
+covid19,60,1,"toux sèche, fièvre, myalgies, anosmie",7,0,76,20.8,3
+diabetes,75,2,"fatigue, polyurie",9,0,58,25.3,12
+covid19,43,4,"fièvre, anosmie",6,0,51,35.2,14
+hypertension,60,5,"vertiges, fatigue, maux de tête",10,0,36,25.5,15
+copd,54,3,"expectoration, dyspnée, toux chronique, infections",11,0,55,27.0,10
+covid19,23,3,"fièvre, toux sèche, anosmie, myalgies",39,1,47,35.3,14
+covid19,75,1,"myalgies, anosmie, toux sèche",30,0,53,18.0,6
+eczema,62,4,"lésions, sécheresse",3,1,52,27.8,8
+heart_failure,78,3,"dyspnée, fatigue, prise de poids",49,0,33,38.2,20
+arthritis,27,5,"douleur articulaire, gonflement, raideur",72,2,50,32.9,16
+depression,42,3,"tristesse, anxiété, insomnie, perte d'intérêt",27,1,63,26.5,13
+heart_failure,96,4,"œdèmes, dyspnée",64,0,49,24.0,19
+depression,60,3,"perte d'intérêt, anxiété",44,0,43,18.0,14
+arthritis,16,2,"gonflement, limitation, raideur, douleur articulaire",5,0,87,26.4,4
+copd,48,3,"infections, expectoration, toux chronique",9,1,39,23.2,12
+asthma,53,3,"essoufflement, oppression thoracique, toux, sifflements",4,0,48,26.8,7
+arthritis,48,1,"raideur, douleur articulaire",45,0,62,26.5,10
+migraine,36,1,"aura, céphalées",6,0,32,28.1,4
+heart_failure,77,3,"prise de poids, dyspnée",84,0,9,36.9,19
+hypertension,55,2,"vertiges, acouphènes",35,0,64,31.6,9
+diabetes,81,3,"polyurie, vision trouble, fatigue, soif excessive",21,1,42,31.8,15
+migraine,71,4,"céphalées, aura, nausées",27,0,56,18.0,10
+covid19,37,2,"myalgies, anosmie, toux sèche",24,2,37,30.4,8
+covid19,34,3,"fièvre, anosmie",41,0,84,18.0,5
+hypertension,33,2,"maux de tête, acouphènes, fatigue, vertiges",8,1,91,26.0,9
+hypertension,52,2,"fatigue, vertiges, acouphènes, maux de tête",36,0,72,32.7,10
+eczema,43,5,"sécheresse, rougeur",44,0,31,31.1,9
+depression,62,2,"tristesse, anxiété, insomnie, perte d'intérêt",44,1,19,28.1,15
+eczema,51,2,"prurit, sécheresse, rougeur, lésions",31,0,82,27.9,5
+arthritis,73,2,"raideur, douleur articulaire, limitation, gonflement",12,0,74,27.5,10
+asthma,30,3,"oppression thoracique, essoufflement",10,1,16,27.5,10
+heart_failure,76,2,"dyspnée, fatigue, œdèmes, prise de poids",17,0,55,32.0,16
+hypertension,41,2,"maux de tête, fatigue, acouphènes, vertiges",8,1,47,18.0,7
+depression,63,2,"perte d'intérêt, tristesse, insomnie",10,0,48,32.5,14
+heart_failure,45,3,"fatigue, œdèmes, prise de poids",35,0,49,24.5,15
+arthritis,80,2,"gonflement, limitation",10,0,22,21.0,10
+asthma,45,3,"essoufflement, sifflements, toux, oppression thoracique",39,2,98,31.0,10
+migraine,59,3,"céphalées, photophobie",18,0,41,27.7,7
+eczema,43,3,"lésions, sécheresse, prurit",61,1,28,28.9,8
+arthritis,58,2,"limitation, raideur",1,1,57,29.8,8
+covid19,69,2,"anosmie, toux sèche, myalgies, fièvre",51,0,34,20.0,6
+eczema,1,2,"sécheresse, prurit, rougeur, lésions",14,2,71,18.0,0
+diabetes,53,3,"fatigue, vision trouble, soif excessive",22,0,10,23.7,13
+eczema,46,2,"prurit, sécheresse, rougeur, lésions",8,0,70,32.2,8
+arthritis,47,2,"raideur, limitation, gonflement",17,2,64,35.2,12
+hypertension,18,2,"maux de tête, vertiges, acouphènes",21,1,49,22.6,4
+asthma,9,2,"toux, sifflements, oppression thoracique",11,0,54,24.0,2
+arthritis,11,3,"douleur articulaire, gonflement, raideur",1,1,75,28.3,7
+hypertension,55,1,"vertiges, maux de tête, fatigue",9,1,63,32.0,6
+hypertension,71,2,"vertiges, fatigue, maux de tête, acouphènes",58,1,46,25.4,8
+eczema,46,1,"sécheresse, lésions, prurit, rougeur",16,0,56,31.7,4
+asthma,31,4,"toux, essoufflement, oppression thoracique",38,1,54,24.7,7
+arthritis,30,1,"limitation, douleur articulaire, gonflement, raideur",9,0,52,20.1,3
+arthritis,68,3,"raideur, douleur articulaire, limitation, gonflement",13,0,39,39.1,17
+covid19,38,3,"anosmie, fièvre",16,2,72,24.3,6
+depression,65,1,"anxiété, perte d'intérêt, insomnie, tristesse",32,2,35,36.7,14
+heart_failure,60,3,"fatigue, dyspnée, œdèmes",5,0,43,20.3,15
+depression,71,4,"insomnie, tristesse",8,1,48,20.7,14
+arthritis,65,3,"douleur articulaire, raideur",46,0,40,27.6,11
+eczema,51,2,"rougeur, sécheresse, lésions, prurit",21,0,50,24.7,3
+migraine,43,4,"photophobie, aura, nausées, céphalées",17,1,100,27.1,7
+arthritis,42,3,"limitation, raideur",22,0,43,22.7,4
+diabetes,58,4,"vision trouble, soif excessive, polyurie, fatigue",21,0,49,25.6,12
+hypertension,43,2,"fatigue, acouphènes, vertiges, maux de tête",85,0,52,33.2,12
+copd,43,2,"dyspnée, toux chronique",36,0,28,35.5,15
+arthritis,58,2,"gonflement, douleur articulaire",45,1,84,38.5,11
+diabetes,56,4,"fatigue, polyurie",5,0,74,18.0,11
+diabetes,63,3,"soif excessive, polyurie",10,0,45,30.0,13
+heart_failure,56,3,"dyspnée, œdèmes",10,0,42,23.4,14
+asthma,48,3,"sifflements, oppression thoracique",54,0,65,28.0,8
+arthritis,13,2,"raideur, douleur articulaire",67,1,72,25.4,5
+asthma,53,3,"essoufflement, toux",50,0,78,24.3,5
+migraine,75,1,"nausées, photophobie, aura, céphalées",62,1,48,32.1,10
+eczema,70,2,"rougeur, sécheresse",30,0,52,35.7,9
+copd,49,4,"toux chronique, expectoration, infections",39,1,100,21.9,12
+eczema,32,4,"lésions, prurit, rougeur, sécheresse",2,0,100,28.0,4
+diabetes,69,3,"vision trouble, polyurie, soif excessive",1,0,38,31.2,16
+hypertension,60,4,"vertiges, fatigue, maux de tête, acouphènes",18,0,33,29.5,16
+hypertension,31,4,"acouphènes, maux de tête, vertiges, fatigue",33,0,54,35.0,11
+asthma,43,3,"essoufflement, oppression thoracique, toux",14,0,61,27.4,4
+eczema,29,1,"prurit, sécheresse, rougeur",3,1,91,21.4,0
+diabetes,28,2,"fatigue, vision trouble, polyurie",6,0,68,27.9,5
+heart_failure,34,2,"dyspnée, prise de poids",33,0,90,31.5,13
+covid19,68,4,"anosmie, toux sèche, fièvre",23,0,48,31.3,13
+eczema,69,3,"prurit, sécheresse",13,1,53,18.0,8
+asthma,38,2,"oppression thoracique, essoufflement, toux",11,0,73,21.2,7
+copd,77,1,"expectoration, toux chronique, infections",48,0,67,24.6,11
+asthma,23,4,"sifflements, essoufflement, toux",1,0,27,25.9,8
+diabetes,45,1,"fatigue, soif excessive, polyurie",6,0,44,27.0,4
+arthritis,22,2,"raideur, gonflement, douleur articulaire",16,0,62,25.0,6
+heart_failure,37,4,"œdèmes, dyspnée, prise de poids, fatigue",54,0,88,19.8,13
+diabetes,64,1,"soif excessive, vision trouble, polyurie, fatigue",57,2,88,26.4,7
+heart_failure,68,5,"dyspnée, œdèmes, prise de poids, fatigue",156,0,49,25.4,16
+depression,74,4,"insomnie, anxiété, perte d'intérêt",18,0,25,30.2,19
+depression,67,1,"insomnie, tristesse, anxiété, perte d'intérêt",2,0,83,33.9,11
+hypertension,48,1,"vertiges, acouphènes, fatigue",3,1,49,22.4,8
+heart_failure,61,4,"œdèmes, dyspnée, prise de poids, fatigue",23,0,42,20.4,18
+eczema,43,2,"rougeur, prurit, sécheresse, lésions",15,0,71,24.0,5
+copd,57,3,"dyspnée, toux chronique, expectoration, infections",60,0,44,29.1,16
+covid19,85,3,"toux sèche, anosmie, fièvre",43,1,48,29.5,16
+asthma,18,1,"toux, essoufflement, oppression thoracique",10,1,73,27.7,1
+depression,60,1,"perte d'intérêt, tristesse, anxiété, insomnie",2,1,45,24.0,11
+asthma,40,4,"sifflements, oppression thoracique",6,0,56,21.7,9
+asthma,95,1,"toux, oppression thoracique, sifflements, essoufflement",39,0,59,30.2,9
+copd,54,2,"dyspnée, expectoration",23,0,79,27.3,11
+diabetes,32,4,"fatigue, vision trouble",49,1,30,22.9,10
+asthma,59,1,"essoufflement, oppression thoracique, toux, sifflements",26,0,45,28.0,4
+heart_failure,51,2,"fatigue, prise de poids",50,0,28,33.7,18
+copd,61,1,"dyspnée, infections, expectoration",36,1,61,27.4,12
+depression,43,2,"anxiété, perte d'intérêt",7,0,69,27.0,13
+arthritis,86,3,"raideur, limitation, douleur articulaire",80,1,55,23.3,13
+asthma,46,2,"essoufflement, oppression thoracique, sifflements, toux",6,1,56,33.9,10
+hypertension,38,1,"acouphènes, vertiges, maux de tête",30,0,60,25.9,4
+copd,68,2,"toux chronique, expectoration, dyspnée",32,1,68,27.8,13
+diabetes,53,2,"polyurie, fatigue, soif excessive",19,0,45,31.4,10
+migraine,65,3,"nausées, aura, céphalées, photophobie",7,0,51,25.0,8
+depression,35,2,"insomnie, anxiété, perte d'intérêt, tristesse",34,0,78,23.5,8
+depression,53,4,"insomnie, perte d'intérêt, anxiété, tristesse",30,0,89,26.7,14
+migraine,69,4,"céphalées, photophobie",15,0,55,18.0,8
+heart_failure,62,5,"dyspnée, fatigue, prise de poids",76,0,54,23.1,18
+arthritis,40,2,"limitation, gonflement",12,1,79,34.3,10
+depression,56,3,"perte d'intérêt, anxiété",5,0,26,24.4,14
+depression,53,2,"perte d'intérêt, anxiété, insomnie, tristesse",27,0,87,25.1,9
+diabetes,57,3,"polyurie, soif excessive, vision trouble, fatigue",41,0,70,24.6,12
+depression,70,2,"perte d'intérêt, insomnie, tristesse",3,0,23,27.5,15
+copd,56,1,"dyspnée, expectoration, toux chronique, infections",36,0,75,26.6,9
+heart_failure,63,2,"prise de poids, fatigue",74,0,75,22.9,13
+arthritis,14,3,"douleur articulaire, limitation, raideur, gonflement",59,1,100,25.9,11
+hypertension,19,3,"fatigue, acouphènes, maux de tête",45,1,51,30.2,10
+arthritis,47,3,"gonflement, douleur articulaire, raideur, limitation",6,0,37,22.5,6
+heart_failure,54,5,"fatigue, dyspnée, prise de poids, œdèmes",54,0,82,21.0,16
+eczema,55,3,"prurit, sécheresse",23,0,50,26.0,7
+copd,43,3,"toux chronique, dyspnée",48,1,81,27.1,16
+eczema,27,1,"lésions, sécheresse, rougeur, prurit",17,1,72,35.7,2
+heart_failure,38,3,"œdèmes, dyspnée, fatigue, prise de poids",6,1,78,32.3,16
+diabetes,83,3,"vision trouble, soif excessive, fatigue, polyurie",29,0,85,34.9,14
+hypertension,77,1,"fatigue, maux de tête, vertiges",41,1,97,30.4,9
+arthritis,66,1,"douleur articulaire, limitation, gonflement, raideur",16,2,66,27.7,10
+asthma,47,1,"essoufflement, toux, sifflements",48,0,85,21.5,3
+covid19,47,1,"toux sèche, anosmie",14,0,71,24.7,4
+arthritis,49,2,"gonflement, limitation, raideur, douleur articulaire",3,0,66,35.3,11
+diabetes,60,3,"soif excessive, vision trouble, fatigue, polyurie",6,1,27,27.0,13
+hypertension,45,1,"vertiges, acouphènes, maux de tête",7,2,65,26.5,8
+covid19,45,4,"anosmie, toux sèche, fièvre, myalgies",50,0,67,32.8,11
+copd,75,3,"expectoration, dyspnée, toux chronique",49,1,57,24.2,16
+heart_failure,24,3,"œdèmes, dyspnée",23,0,45,32.0,14
+heart_failure,48,3,"fatigue, dyspnée, œdèmes",19,1,39,31.2,18
+copd,28,3,"toux chronique, expectoration, dyspnée",4,1,84,31.4,13
+covid19,50,3,"fièvre, toux sèche, anosmie, myalgies",20,0,28,32.1,12
+eczema,43,2,"rougeur, sécheresse",34,0,46,29.7,7
+hypertension,42,2,"maux de tête, fatigue, acouphènes, vertiges",21,2,62,28.2,7
+copd,60,3,"toux chronique, expectoration",51,0,42,29.9,15
+covid19,59,1,"toux sèche, fièvre",37,1,43,29.9,5
+depression,38,3,"tristesse, anxiété",50,0,46,24.2,15
+arthritis,57,1,"limitation, gonflement, raideur",12,2,83,22.7,7
+diabetes,40,2,"soif excessive, polyurie, fatigue, vision trouble",33,0,50,24.2,7
+copd,62,3,"toux chronique, dyspnée, expectoration",18,1,74,24.3,15
+diabetes,46,1,"vision trouble, fatigue, soif excessive, polyurie",14,1,22,25.9,8
+eczema,16,3,"prurit, lésions",11,0,44,25.7,6
+eczema,99,3,"sécheresse, prurit",56,1,23,23.8,9
+depression,27,3,"tristesse, perte d'intérêt, anxiété",1,0,61,19.4,11
+heart_failure,57,4,"dyspnée, fatigue, œdèmes, prise de poids",35,0,62,32.3,18
+copd,41,3,"toux chronique, infections, dyspnée",23,0,40,31.7,17
+hypertension,44,1,"vertiges, acouphènes, fatigue",29,0,44,20.8,4
+heart_failure,43,1,"œdèmes, dyspnée",4,1,54,25.2,9
+covid19,33,3,"fièvre, anosmie",15,1,48,25.8,6
+heart_failure,47,1,"prise de poids, dyspnée, fatigue, œdèmes",29,0,73,28.0,11
+hypertension,30,1,"vertiges, acouphènes, maux de tête",6,2,48,22.0,2
+arthritis,67,3,"raideur, gonflement, douleur articulaire",40,0,34,31.4,12
+eczema,40,3,"rougeur, prurit",7,0,55,34.3,5
+arthritis,54,4,"limitation, raideur",33,0,82,24.0,11
+copd,50,4,"infections, expectoration, toux chronique",1,0,85,26.7,14
+heart_failure,60,1,"dyspnée, œdèmes, fatigue",37,0,56,28.6,15
+copd,57,3,"infections, dyspnée",7,0,67,22.7,9
+arthritis,71,4,"limitation, raideur, gonflement",5,0,56,23.6,9
+eczema,40,2,"rougeur, sécheresse",8,0,47,28.0,8
+asthma,73,3,"essoufflement, toux, oppression thoracique, sifflements",2,0,73,26.3,7
+depression,52,4,"perte d'intérêt, tristesse, anxiété, insomnie",47,1,99,31.5,16
+copd,67,3,"expectoration, dyspnée, toux chronique, infections",9,0,66,26.4,15
+copd,56,1,"expectoration, infections, toux chronique",39,0,17,36.1,12
+asthma,70,2,"toux, oppression thoracique",29,2,71,27.7,12
+covid19,56,2,"myalgies, anosmie, toux sèche",60,1,73,26.6,8
+covid19,73,2,"toux sèche, anosmie, fièvre, myalgies",5,0,42,18.0,4
+arthritis,66,2,"douleur articulaire, gonflement, raideur",7,0,73,27.8,13
+copd,69,3,"toux chronique, infections, dyspnée",4,0,64,32.2,14
+eczema,34,4,"sécheresse, prurit",8,2,54,30.8,8
+diabetes,40,2,"polyurie, fatigue, soif excessive, vision trouble",3,0,68,24.0,8
+arthritis,78,3,"douleur articulaire, gonflement, limitation",30,1,90,26.6,7
+arthritis,78,1,"limitation, douleur articulaire, gonflement",50,0,67,26.1,9
+depression,36,2,"anxiété, perte d'intérêt, insomnie, tristesse",63,0,43,22.0,12
+copd,39,1,"dyspnée, expectoration, toux chronique, infections",14,3,56,24.7,10
+covid19,43,2,"toux sèche, fièvre, myalgies",30,2,46,28.1,9
+covid19,54,3,"anosmie, fièvre",123,2,63,22.4,8
+heart_failure,14,3,"œdèmes, dyspnée, fatigue, prise de poids",38,0,25,35.9,17
+migraine,17,2,"photophobie, céphalées",79,0,51,27.8,4
+migraine,55,3,"nausées, photophobie",43,0,71,32.2,9
+migraine,38,3,"aura, céphalées, photophobie",52,0,59,32.6,10
+depression,61,1,"anxiété, tristesse, perte d'intérêt, insomnie",3,1,100,29.1,13
+eczema,42,2,"lésions, rougeur, prurit, sécheresse",14,1,70,31.1,7
+migraine,25,1,"céphalées, photophobie",80,0,40,32.4,6
+asthma,58,4,"essoufflement, toux, oppression thoracique, sifflements",31,0,57,31.2,12
+hypertension,65,2,"vertiges, acouphènes, fatigue",16,0,58,28.0,10
+arthritis,48,3,"douleur articulaire, limitation, raideur",19,0,82,33.3,13
+eczema,28,3,"sécheresse, prurit, lésions",108,1,45,29.0,8
+covid19,36,1,"fièvre, anosmie",33,0,74,20.3,0
+heart_failure,36,1,"fatigue, prise de poids, œdèmes",42,0,61,24.5,10
+hypertension,70,3,"vertiges, acouphènes",1,0,85,28.4,7
+depression,61,4,"perte d'intérêt, anxiété, tristesse",40,1,96,22.7,14
+arthritis,29,3,"douleur articulaire, limitation, gonflement",3,1,85,29.7,8
+depression,63,1,"tristesse, insomnie, perte d'intérêt",95,0,81,21.0,10
+depression,49,1,"perte d'intérêt, insomnie, anxiété, tristesse",73,0,68,24.1,10
+asthma,66,4,"sifflements, oppression thoracique, toux, essoufflement",20,2,50,26.2,14
+diabetes,55,2,"vision trouble, soif excessive",71,0,59,29.4,10
+diabetes,68,3,"soif excessive, polyurie",21,0,100,20.1,6
+depression,34,3,"insomnie, perte d'intérêt, anxiété",8,0,53,22.5,13
+migraine,48,4,"aura, photophobie, nausées, céphalées",143,0,65,32.5,13
+covid19,30,3,"myalgies, fièvre",48,0,62,27.4,9
+hypertension,36,2,"acouphènes, fatigue, vertiges",84,1,41,24.6,12
+migraine,25,1,"céphalées, photophobie, nausées, aura",47,1,41,26.5,5
+copd,52,5,"expectoration, infections",8,0,43,30.1,19
+covid19,51,2,"anosmie, myalgies",22,0,46,30.1,6
+depression,17,5,"tristesse, insomnie, anxiété, perte d'intérêt",70,0,62,29.0,14
+copd,35,1,"dyspnée, infections, expectoration, toux chronique",19,0,63,27.2,6
+migraine,50,1,"nausées, aura",1,1,73,21.3,0
+copd,79,4,"expectoration, toux chronique, infections",16,0,53,29.4,16
+depression,13,4,"tristesse, perte d'intérêt, insomnie",4,0,49,27.3,12
+asthma,64,4,"oppression thoracique, sifflements",4,1,59,27.8,15
+diabetes,76,2,"vision trouble, polyurie",36,0,61,28.3,13
+hypertension,64,3,"fatigue, vertiges, acouphènes",48,0,72,35.1,12
+copd,46,3,"expectoration, dyspnée, infections",22,1,57,25.4,11
+depression,76,2,"anxiété, tristesse, perte d'intérêt, insomnie",7,0,74,26.2,11
+asthma,50,3,"toux, sifflements, essoufflement",3,1,27,20.7,10
+eczema,68,4,"lésions, prurit, sécheresse, rougeur",66,0,36,23.1,10
+migraine,56,2,"céphalées, aura, nausées, photophobie",6,1,62,28.6,6
+diabetes,67,3,"vision trouble, soif excessive",4,0,70,33.4,11
+eczema,23,3,"rougeur, lésions",15,1,71,26.5,8
+depression,58,3,"tristesse, perte d'intérêt",6,2,62,21.1,13
+hypertension,45,3,"fatigue, acouphènes, vertiges, maux de tête",51,0,70,18.0,11
+migraine,50,5,"photophobie, nausées, aura, céphalées",43,0,68,22.2,8
+asthma,56,3,"toux, essoufflement",2,1,71,29.6,10
+migraine,78,2,"nausées, aura",4,0,42,27.5,8
+eczema,51,1,"lésions, rougeur",1,1,57,28.4,5
+eczema,69,2,"prurit, rougeur, sécheresse, lésions",48,0,49,26.5,6
+covid19,31,3,"anosmie, myalgies, fièvre",2,0,82,18.0,5
+heart_failure,74,3,"fatigue, œdèmes",12,1,61,23.7,14
+migraine,57,2,"aura, céphalées",12,0,89,22.6,3
+covid19,49,2,"myalgies, toux sèche, fièvre",23,0,44,18.0,6
+eczema,21,2,"rougeur, lésions",37,0,73,34.1,3
+copd,61,2,"expectoration, toux chronique, infections",1,1,53,31.3,11
+eczema,33,1,"prurit, sécheresse, rougeur, lésions",3,0,62,34.9,4
+migraine,66,1,"photophobie, céphalées",32,1,52,27.7,6
+asthma,76,2,"essoufflement, sifflements, toux",10,0,50,28.2,12
+migraine,46,1,"photophobie, nausées, céphalées, aura",81,1,16,24.4,5
+migraine,58,1,"photophobie, céphalées, nausées",29,1,100,23.8,4
+arthritis,61,2,"raideur, gonflement, douleur articulaire",162,1,70,28.6,10
+depression,52,3,"insomnie, tristesse, perte d'intérêt",22,0,85,24.7,11
+arthritis,44,2,"gonflement, douleur articulaire, raideur, limitation",105,0,71,30.1,10
+eczema,35,4,"rougeur, prurit",83,1,72,30.2,8
+migraine,50,4,"aura, nausées, céphalées",9,2,80,23.7,6
+depression,29,3,"tristesse, insomnie, perte d'intérêt",4,0,72,21.9,10
+arthritis,41,1,"raideur, douleur articulaire",3,1,86,18.0,6
+migraine,43,4,"nausées, aura, céphalées, photophobie",60,2,85,35.3,11
+hypertension,52,1,"maux de tête, vertiges, fatigue, acouphènes",66,0,44,25.3,8
+arthritis,58,2,"raideur, limitation, douleur articulaire, gonflement",57,0,54,28.9,10
+depression,60,2,"perte d'intérêt, anxiété",2,0,94,32.2,13
+arthritis,71,3,"gonflement, limitation",1,0,88,21.4,9
+heart_failure,29,2,"fatigue, dyspnée, prise de poids",14,1,46,25.8,11
+heart_failure,57,3,"dyspnée, prise de poids",1,0,100,32.4,16
+eczema,33,4,"prurit, sécheresse",12,0,23,30.1,7
+hypertension,74,2,"vertiges, acouphènes",17,1,44,30.9,11
+asthma,23,2,"sifflements, toux, essoufflement",16,0,55,22.0,3
+asthma,55,4,"essoufflement, toux, oppression thoracique, sifflements",49,2,88,21.6,11
+depression,57,2,"anxiété, insomnie",17,0,39,23.7,8
+copd,19,1,"infections, toux chronique",5,0,80,29.5,9
+asthma,82,3,"essoufflement, toux, oppression thoracique, sifflements",26,1,80,33.8,12
+depression,50,3,"tristesse, perte d'intérêt, anxiété",16,1,49,22.2,14
+hypertension,64,2,"maux de tête, vertiges",17,0,67,33.7,7
+copd,29,3,"toux chronique, infections",1,0,60,25.5,12
+copd,63,2,"toux chronique, dyspnée, infections, expectoration",43,0,59,28.4,10
+heart_failure,46,3,"prise de poids, œdèmes",38,2,28,28.7,20
+eczema,51,1,"lésions, sécheresse, prurit, rougeur",9,0,79,38.6,6
+migraine,21,2,"nausées, aura, photophobie",27,0,49,22.4,5
+copd,49,3,"dyspnée, toux chronique, infections, expectoration",36,1,42,30.6,18
+diabetes,61,3,"fatigue, vision trouble, soif excessive, polyurie",23,1,87,19.8,13
+depression,61,2,"perte d'intérêt, tristesse, insomnie",14,0,74,34.7,13
+copd,33,2,"expectoration, infections",2,0,72,29.9,11
+copd,43,3,"expectoration, toux chronique, infections",45,2,71,24.7,12
+covid19,39,3,"anosmie, myalgies",6,0,47,24.9,10
+diabetes,64,1,"soif excessive, polyurie",65,0,35,29.1,10
+covid19,18,3,"anosmie, toux sèche",20,0,43,18.0,5
+copd,57,1,"dyspnée, infections",1,0,64,31.8,8
+migraine,60,2,"aura, nausées",32,0,61,28.6,10
+diabetes,47,2,"fatigue, polyurie, soif excessive",77,0,72,28.3,7
+heart_failure,36,1,"prise de poids, œdèmes, dyspnée, fatigue",8,0,80,29.7,10
+arthritis,64,2,"gonflement, raideur, limitation, douleur articulaire",1,2,73,27.4,11
+copd,51,3,"toux chronique, infections",43,0,52,22.8,13
+copd,39,3,"dyspnée, toux chronique, expectoration",15,0,86,27.8,13
+eczema,35,4,"lésions, sécheresse",23,2,54,38.2,9
+eczema,30,3,"lésions, prurit, sécheresse",27,1,25,26.9,6
+covid19,64,2,"myalgies, anosmie, toux sèche, fièvre",16,0,46,22.9,7
+depression,14,2,"anxiété, perte d'intérêt, tristesse",41,2,46,29.3,10
+migraine,63,3,"photophobie, céphalées",8,0,79,37.6,10
+depression,70,1,"tristesse, perte d'intérêt, insomnie",1,0,72,18.0,6
+arthritis,38,2,"limitation, douleur articulaire",38,0,23,19.2,10
+copd,23,1,"infections, dyspnée",18,2,73,28.4,9
+migraine,54,2,"céphalées, photophobie",17,0,56,31.9,6
+diabetes,84,1,"vision trouble, soif excessive, fatigue",2,0,56,33.9,10
+copd,41,3,"infections, expectoration",1,0,61,27.9,10
+heart_failure,21,2,"prise de poids, dyspnée, fatigue, œdèmes",24,0,84,26.1,9
+copd,32,2,"toux chronique, dyspnée",10,3,53,25.3,12
+asthma,45,1,"oppression thoracique, toux",10,1,54,18.0,4
+migraine,56,4,"photophobie, céphalées",10,0,63,25.3,5
+asthma,38,2,"oppression thoracique, toux, sifflements, essoufflement",22,0,55,25.4,7
+covid19,64,1,"myalgies, anosmie, fièvre",11,1,43,21.5,7
+eczema,47,5,"rougeur, sécheresse, prurit",22,2,49,29.7,13
+diabetes,41,1,"vision trouble, soif excessive, polyurie, fatigue",82,0,39,22.7,7
+copd,80,4,"expectoration, dyspnée, toux chronique, infections",38,1,78,24.6,17
+covid19,44,1,"myalgies, toux sèche, anosmie",35,0,36,27.1,5
+covid19,26,2,"fièvre, anosmie",61,1,72,22.5,5
+diabetes,37,4,"fatigue, polyurie, soif excessive",12,0,49,26.1,9
+hypertension,70,3,"vertiges, acouphènes, fatigue, maux de tête",1,1,58,33.1,14
+copd,48,2,"expectoration, infections",3,0,92,27.7,12
+asthma,56,4,"sifflements, essoufflement",43,1,77,23.8,10
+migraine,60,4,"photophobie, nausées, aura, céphalées",33,0,47,26.1,10
+asthma,23,2,"toux, sifflements, oppression thoracique, essoufflement",38,1,35,27.2,8
+diabetes,36,1,"fatigue, polyurie",50,1,59,27.4,7
+arthritis,57,2,"raideur, douleur articulaire, gonflement",1,1,56,26.9,8
+copd,23,1,"infections, toux chronique",104,2,61,30.1,10
+heart_failure,83,4,"œdèmes, fatigue, dyspnée",56,0,51,21.5,19
+depression,25,2,"anxiété, tristesse, insomnie",16,0,76,25.9,9
+migraine,61,3,"aura, photophobie, céphalées, nausées",12,1,68,24.9,9
+heart_failure,9,2,"œdèmes, fatigue",49,0,44,27.1,9
+heart_failure,46,2,"dyspnée, œdèmes",41,0,69,33.5,15
+copd,52,3,"toux chronique, dyspnée, infections",10,0,41,20.3,15
+arthritis,60,1,"raideur, gonflement, limitation",21,0,80,30.4,10
+copd,46,2,"infections, dyspnée, expectoration",9,0,22,26.4,13
+arthritis,44,2,"douleur articulaire, limitation, raideur, gonflement",10,0,44,37.5,10
+hypertension,43,1,"vertiges, acouphènes, maux de tête, fatigue",29,0,20,20.3,5
+migraine,46,3,"nausées, photophobie, céphalées, aura",8,0,23,25.2,4
+diabetes,53,4,"fatigue, vision trouble",18,0,57,21.5,10
+eczema,47,1,"lésions, rougeur, prurit, sécheresse",32,0,55,26.1,2
+diabetes,68,2,"polyurie, vision trouble, fatigue",44,0,66,29.0,14
+heart_failure,49,2,"prise de poids, dyspnée, fatigue",5,2,91,27.8,15
+depression,63,2,"perte d'intérêt, anxiété, tristesse",25,0,100,34.3,16
+hypertension,74,3,"fatigue, acouphènes, maux de tête, vertiges",3,2,61,33.6,12
+diabetes,52,2,"soif excessive, polyurie, fatigue",17,1,82,28.9,9
+diabetes,40,4,"polyurie, soif excessive, vision trouble",49,0,48,37.3,17
+depression,41,2,"insomnie, tristesse, anxiété",76,0,74,27.2,7
+depression,73,1,"tristesse, perte d'intérêt, anxiété",5,1,67,24.5,13
+diabetes,55,2,"soif excessive, vision trouble, fatigue, polyurie",17,1,22,29.0,13
+covid19,57,3,"anosmie, fièvre",17,0,62,32.6,11
+asthma,46,3,"oppression thoracique, toux, sifflements",12,0,47,31.9,10
+depression,51,1,"insomnie, anxiété, perte d'intérêt",10,0,77,29.0,10
+asthma,56,2,"oppression thoracique, sifflements, toux",24,0,72,18.9,5
+migraine,44,1,"céphalées, nausées, aura, photophobie",13,0,62,28.7,2
+hypertension,84,2,"fatigue, vertiges",3,1,62,28.4,11
+covid19,43,3,"anosmie, fièvre",3,0,59,20.8,7
+depression,31,3,"tristesse, perte d'intérêt, insomnie, anxiété",1,2,53,27.1,14
+migraine,36,5,"aura, céphalées",89,0,28,40.0,13
+arthritis,38,2,"douleur articulaire, raideur, gonflement",25,0,72,18.0,6
+heart_failure,65,1,"prise de poids, dyspnée",22,1,57,36.7,13
+asthma,4,3,"oppression thoracique, toux, sifflements",11,0,62,40.0,8
+covid19,59,2,"anosmie, myalgies, toux sèche, fièvre",36,0,77,20.6,5
+covid19,58,3,"toux sèche, anosmie",3,1,83,23.7,6
+hypertension,42,1,"maux de tête, fatigue",8,1,90,27.1,3
+asthma,64,4,"toux, essoufflement",2,0,42,33.9,16
+arthritis,55,3,"limitation, gonflement, douleur articulaire",8,0,73,35.9,13
+hypertension,30,1,"vertiges, maux de tête, fatigue",17,0,97,26.7,6
+covid19,46,2,"toux sèche, myalgies, anosmie, fièvre",28,0,70,21.6,7
+diabetes,61,2,"vision trouble, soif excessive, fatigue",16,2,49,25.7,14
+arthritis,60,3,"gonflement, limitation, raideur",42,0,51,29.3,12
+covid19,86,2,"anosmie, myalgies",123,1,49,24.7,11
+copd,56,3,"dyspnée, infections, expectoration, toux chronique",35,0,34,21.6,16
+copd,49,1,"dyspnée, infections",4,0,46,18.0,7
+depression,51,3,"tristesse, anxiété, insomnie",49,0,26,21.8,13
+hypertension,58,3,"fatigue, vertiges, acouphènes",53,0,99,27.8,7
+covid19,52,4,"fièvre, myalgies, toux sèche",6,0,71,27.0,12
+depression,14,3,"insomnie, anxiété, tristesse",11,1,73,30.4,14
+hypertension,20,2,"fatigue, maux de tête",14,1,49,18.0,3
+arthritis,42,3,"douleur articulaire, raideur, limitation, gonflement",135,0,47,30.5,11
+covid19,81,1,"fièvre, anosmie, toux sèche",18,1,60,20.1,9
+hypertension,72,3,"fatigue, acouphènes, vertiges",20,2,48,30.4,9
+covid19,79,3,"anosmie, myalgies",74,1,61,21.8,10
+diabetes,50,3,"vision trouble, polyurie, fatigue",38,1,52,31.7,11
+heart_failure,44,3,"prise de poids, dyspnée, fatigue, œdèmes",33,0,30,32.7,14
+eczema,39,1,"rougeur, prurit",40,1,49,28.0,6
+copd,89,3,"infections, dyspnée",66,0,64,29.0,15
+heart_failure,44,2,"prise de poids, fatigue",1,0,63,23.5,9
+hypertension,34,3,"vertiges, acouphènes",19,1,86,28.5,7
+eczema,58,3,"sécheresse, rougeur, prurit, lésions",55,0,74,32.7,6
+heart_failure,44,4,"œdèmes, prise de poids, dyspnée",43,0,60,28.7,15
+diabetes,33,4,"soif excessive, polyurie, fatigue",40,0,100,23.1,9
+copd,60,1,"expectoration, dyspnée",82,1,38,33.5,13
+migraine,41,4,"nausées, photophobie",12,0,72,25.2,8
+hypertension,19,2,"vertiges, acouphènes, fatigue",26,0,68,23.0,5
+copd,39,3,"toux chronique, expectoration, dyspnée",1,0,62,25.4,14
+heart_failure,21,1,"fatigue, œdèmes, dyspnée",62,0,95,27.6,8
+migraine,69,5,"photophobie, nausées",5,1,42,22.2,12
+asthma,22,2,"essoufflement, toux",41,0,69,20.8,6
+copd,52,3,"infections, toux chronique",12,0,80,24.8,13
+asthma,62,4,"essoufflement, toux",41,0,63,30.0,10
+eczema,21,3,"prurit, lésions",34,0,83,30.3,5
+arthritis,41,2,"douleur articulaire, limitation",9,0,45,25.3,8
+covid19,33,3,"fièvre, myalgies, toux sèche, anosmie",8,2,28,20.7,6
+eczema,70,2,"prurit, lésions, rougeur",86,0,42,27.7,11
+migraine,56,2,"aura, photophobie, nausées, céphalées",15,0,84,23.8,5
+migraine,31,2,"aura, photophobie, céphalées, nausées",1,0,79,30.3,1
+copd,76,3,"toux chronique, dyspnée",15,0,66,27.2,13
+covid19,27,1,"fièvre, anosmie, toux sèche",1,1,100,36.3,3
+arthritis,17,2,"limitation, douleur articulaire, raideur, gonflement",21,0,64,35.8,8
+heart_failure,98,2,"œdèmes, dyspnée, fatigue, prise de poids",52,0,64,24.9,16
+depression,54,1,"insomnie, anxiété",11,1,28,24.0,11
+hypertension,46,1,"vertiges, acouphènes",63,0,47,27.3,4
+arthritis,3,2,"gonflement, limitation, raideur, douleur articulaire",17,1,65,21.3,3
+migraine,36,3,"nausées, photophobie",2,1,40,26.3,11
+depression,65,2,"tristesse, insomnie, perte d'intérêt",70,3,52,21.9,13
+migraine,60,3,"nausées, photophobie, céphalées, aura",73,2,69,34.3,11
+covid19,41,1,"myalgies, fièvre, anosmie, toux sèche",70,0,68,31.1,8
+covid19,61,1,"myalgies, anosmie, toux sèche, fièvre",7,0,73,30.3,8
+copd,67,2,"infections, dyspnée, expectoration, toux chronique",11,0,41,22.6,10
+heart_failure,33,4,"prise de poids, dyspnée",12,1,47,26.3,17
+diabetes,42,2,"polyurie, vision trouble, fatigue",22,0,82,31.7,9
+migraine,72,2,"photophobie, nausées",48,0,50,19.9,9
+heart_failure,52,4,"dyspnée, œdèmes, fatigue",8,0,32,26.4,18
+asthma,52,2,"toux, essoufflement, oppression thoracique, sifflements",116,0,41,26.4,8
+migraine,47,3,"aura, céphalées",48,0,61,21.2,5
+depression,46,1,"tristesse, perte d'intérêt, anxiété, insomnie",15,1,49,29.8,11
+heart_failure,53,1,"fatigue, œdèmes, dyspnée",24,1,41,33.2,13
+arthritis,76,1,"limitation, gonflement, raideur",16,1,47,20.4,10
+heart_failure,51,5,"dyspnée, fatigue, œdèmes",50,1,31,20.7,20
+arthritis,49,4,"gonflement, douleur articulaire, raideur, limitation",10,2,79,22.4,11
+covid19,47,2,"anosmie, myalgies, toux sèche",54,0,49,40.0,12
+arthritis,42,3,"limitation, gonflement",11,1,79,25.8,10
+eczema,40,2,"prurit, rougeur, sécheresse, lésions",10,1,66,30.8,3
+diabetes,69,2,"soif excessive, polyurie",4,1,31,18.0,10
+eczema,51,1,"rougeur, lésions, prurit, sécheresse",8,1,71,25.0,4
+depression,24,3,"perte d'intérêt, anxiété, insomnie",12,0,45,28.8,13
+hypertension,76,3,"vertiges, acouphènes",34,0,96,34.0,11
+depression,69,2,"tristesse, perte d'intérêt, anxiété, insomnie",49,3,43,25.6,15
+copd,52,2,"toux chronique, expectoration, infections, dyspnée",8,0,68,28.5,9
+migraine,55,1,"aura, nausées, photophobie",11,0,27,25.1,7
+eczema,27,2,"prurit, rougeur, sécheresse, lésions",34,0,94,25.6,3
+depression,61,4,"anxiété, tristesse",6,0,55,26.0,17
+migraine,48,2,"nausées, céphalées, aura",27,0,58,33.8,7
+migraine,52,2,"nausées, aura",22,1,22,19.9,7
+migraine,18,2,"photophobie, nausées, céphalées",1,0,83,29.5,4
+diabetes,60,3,"polyurie, fatigue",28,1,69,29.8,13
+hypertension,32,3,"vertiges, maux de tête, acouphènes",28,2,73,23.5,8
+arthritis,60,1,"raideur, douleur articulaire",37,0,84,32.1,10
+depression,75,2,"anxiété, insomnie, perte d'intérêt",46,0,86,26.9,14
+copd,53,4,"toux chronique, expectoration, dyspnée",5,0,100,24.7,13
+depression,70,2,"anxiété, insomnie, perte d'intérêt",9,0,39,25.6,13
+arthritis,44,4,"limitation, raideur, gonflement",46,1,55,21.1,8
+covid19,73,2,"myalgies, toux sèche, fièvre, anosmie",25,0,47,20.6,8
+heart_failure,84,3,"prise de poids, dyspnée",36,0,71,26.8,19
+migraine,62,3,"aura, céphalées, nausées",17,2,92,27.7,10
+eczema,51,1,"prurit, rougeur, sécheresse, lésions",14,0,38,26.3,2
+eczema,74,5,"sécheresse, rougeur, lésions, prurit",71,0,50,23.5,13
+heart_failure,49,1,"prise de poids, dyspnée, œdèmes, fatigue",16,0,84,22.5,12
+copd,29,1,"expectoration, toux chronique",35,0,53,30.3,11
+eczema,35,3,"prurit, lésions",55,0,77,32.6,8
+heart_failure,1,2,"fatigue, prise de poids, dyspnée",17,0,41,28.9,13
+heart_failure,56,3,"œdèmes, fatigue, dyspnée, prise de poids",1,0,78,30.9,15
+migraine,40,2,"photophobie, céphalées",18,1,65,20.7,5
+arthritis,62,3,"raideur, gonflement",32,1,53,22.8,13
+arthritis,66,1,"raideur, limitation, douleur articulaire",8,2,83,26.2,10
+arthritis,71,1,"raideur, douleur articulaire",1,0,73,32.3,6
+depression,19,1,"tristesse, perte d'intérêt, anxiété",5,0,65,32.2,10
+hypertension,56,1,"vertiges, acouphènes, fatigue, maux de tête",48,0,43,25.9,5
+depression,82,5,"insomnie, tristesse",2,0,42,30.1,20
+heart_failure,64,3,"dyspnée, fatigue",19,0,25,25.0,15
+hypertension,34,4,"vertiges, acouphènes, fatigue, maux de tête",10,0,34,24.6,8
+eczema,56,2,"rougeur, prurit, sécheresse",47,0,43,24.8,6
+asthma,80,1,"sifflements, toux, essoufflement",22,1,68,30.6,9
+depression,37,3,"perte d'intérêt, anxiété",20,0,30,21.4,12
+depression,64,5,"anxiété, tristesse",3,1,63,29.2,19
+migraine,28,1,"photophobie, céphalées, aura, nausées",8,1,72,27.4,1
+arthritis,22,4,"douleur articulaire, gonflement",24,0,15,29.3,11
+covid19,71,3,"anosmie, fièvre, myalgies, toux sèche",97,0,57,22.1,11
+eczema,49,2,"prurit, rougeur, lésions, sécheresse",1,0,60,40.0,8
+covid19,96,2,"fièvre, anosmie, toux sèche, myalgies",4,0,92,22.5,10
+arthritis,21,2,"gonflement, raideur, limitation, douleur articulaire",46,0,60,24.0,6
+hypertension,72,3,"maux de tête, acouphènes",31,2,38,30.3,14
+depression,62,4,"insomnie, tristesse, anxiété",38,2,81,21.4,16
+arthritis,56,2,"raideur, gonflement, douleur articulaire, limitation",21,1,4,21.8,9
+depression,41,1,"insomnie, perte d'intérêt",39,0,44,33.8,13
+heart_failure,68,4,"prise de poids, fatigue, œdèmes, dyspnée",6,2,49,20.6,17
+asthma,55,2,"toux, oppression thoracique, sifflements, essoufflement",8,0,75,28.3,4
+arthritis,40,2,"douleur articulaire, raideur, gonflement",22,1,53,24.1,7
+diabetes,67,2,"polyurie, fatigue, soif excessive, vision trouble",18,0,35,26.4,11
+eczema,50,3,"rougeur, sécheresse, lésions",29,0,0,27.4,4
+asthma,48,3,"toux, sifflements, essoufflement",41,0,37,27.6,6
+arthritis,69,2,"limitation, raideur, douleur articulaire, gonflement",12,1,24,32.4,14
+diabetes,26,1,"vision trouble, fatigue, polyurie",9,0,27,35.0,8
+diabetes,50,2,"polyurie, soif excessive, vision trouble",26,1,82,28.2,10
+eczema,59,2,"rougeur, lésions, sécheresse, prurit",75,0,58,21.7,5
+arthritis,84,4,"limitation, raideur",21,2,91,18.0,12
+asthma,37,1,"essoufflement, sifflements, toux",26,0,48,26.9,5
+migraine,30,4,"aura, photophobie",3,0,54,27.0,6
+hypertension,52,2,"acouphènes, vertiges, fatigue",73,1,70,35.0,13
+diabetes,57,3,"vision trouble, soif excessive",7,0,100,18.0,8
+covid19,50,4,"fièvre, myalgies, anosmie, toux sèche",5,0,67,21.2,10
+arthritis,79,2,"gonflement, raideur",3,0,67,24.8,9
+migraine,37,2,"nausées, céphalées, photophobie, aura",7,2,76,23.5,2
+migraine,57,3,"photophobie, céphalées, nausées",1,0,47,21.3,9
+migraine,72,3,"aura, nausées, photophobie, céphalées",6,0,87,36.6,11
+heart_failure,36,2,"fatigue, prise de poids",35,1,32,23.3,11
+asthma,74,4,"essoufflement, toux",34,0,70,37.6,12
+diabetes,52,1,"fatigue, vision trouble",5,1,95,28.0,6
+arthritis,31,2,"gonflement, raideur",25,0,100,23.5,6
+migraine,27,4,"céphalées, nausées",61,0,63,18.0,8
+hypertension,32,4,"fatigue, acouphènes, vertiges",18,1,51,29.4,12
+hypertension,16,1,"maux de tête, acouphènes, fatigue",16,1,5,30.5,6
+copd,51,3,"infections, expectoration, toux chronique, dyspnée",90,1,24,23.7,13
+migraine,40,4,"photophobie, aura, céphalées, nausées",21,0,60,18.6,7
+hypertension,58,3,"fatigue, vertiges",13,1,6,30.9,14
+covid19,13,2,"toux sèche, fièvre",42,0,54,21.8,4
+diabetes,48,3,"fatigue, polyurie, vision trouble, soif excessive",62,0,42,31.3,13
+asthma,27,3,"sifflements, oppression thoracique",3,0,71,26.0,3
+asthma,49,4,"essoufflement, toux, oppression thoracique, sifflements",8,0,72,32.1,14
+covid19,39,1,"toux sèche, anosmie, fièvre, myalgies",16,3,94,30.8,10
+arthritis,56,1,"gonflement, douleur articulaire, limitation",26,1,76,24.2,9
+hypertension,29,5,"maux de tête, acouphènes, vertiges",21,0,69,29.7,12
+depression,69,4,"anxiété, tristesse, perte d'intérêt",7,0,33,28.7,14
+hypertension,29,2,"fatigue, vertiges",20,0,17,29.4,8
+eczema,43,2,"lésions, sécheresse, rougeur, prurit",47,0,46,26.9,5
+copd,71,4,"toux chronique, expectoration, infections, dyspnée",38,1,74,36.1,16
+covid19,94,5,"fièvre, anosmie, toux sèche, myalgies",47,0,60,26.3,14
+covid19,21,2,"toux sèche, fièvre, myalgies",46,1,29,23.0,8
+covid19,45,4,"fièvre, toux sèche, anosmie",19,0,45,26.6,12
+depression,85,2,"perte d'intérêt, insomnie, tristesse",12,1,58,36.5,17
+eczema,18,2,"rougeur, prurit, lésions",37,1,83,30.0,5
+copd,34,1,"expectoration, toux chronique",44,0,39,24.4,9
+migraine,51,1,"céphalées, aura",33,1,46,27.2,5
+migraine,61,2,"nausées, céphalées, photophobie",38,0,69,30.5,7
+arthritis,22,5,"limitation, raideur, douleur articulaire, gonflement",24,3,100,26.8,9
+covid19,42,2,"toux sèche, fièvre, anosmie",39,0,34,22.9,9
+copd,12,4,"toux chronique, expectoration, infections",38,0,34,28.4,14
+arthritis,38,1,"raideur, gonflement",49,1,94,24.7,6
+covid19,51,2,"toux sèche, fièvre, anosmie",33,0,21,29.3,10
+covid19,60,3,"anosmie, myalgies",31,1,76,25.3,14
+diabetes,57,3,"fatigue, vision trouble, polyurie, soif excessive",6,0,44,36.0,14
+covid19,60,3,"myalgies, fièvre, toux sèche, anosmie",26,1,57,26.1,10
+hypertension,62,1,"fatigue, acouphènes",22,2,83,38.4,6
+depression,64,1,"tristesse, insomnie, anxiété, perte d'intérêt",14,0,59,25.8,11
+depression,43,2,"perte d'intérêt, tristesse",27,0,57,25.8,11
+arthritis,55,3,"gonflement, limitation",44,0,70,20.6,8
+hypertension,66,2,"acouphènes, vertiges",52,1,83,21.7,10
+asthma,33,3,"oppression thoracique, sifflements, essoufflement, toux",1,1,54,25.1,10
+depression,86,3,"insomnie, perte d'intérêt, anxiété",9,0,64,24.0,14
+asthma,53,2,"oppression thoracique, toux, essoufflement",17,0,26,25.5,9
+eczema,40,4,"rougeur, prurit",3,0,41,31.3,5
+hypertension,46,2,"acouphènes, vertiges, fatigue, maux de tête",35,1,100,27.3,8
+asthma,71,1,"essoufflement, sifflements, toux",2,0,67,23.0,6
+diabetes,61,3,"vision trouble, soif excessive, fatigue, polyurie",5,0,61,24.5,12
+copd,41,1,"toux chronique, expectoration, infections, dyspnée",19,1,69,18.9,5
+migraine,48,2,"photophobie, céphalées",66,0,80,25.0,7
+covid19,79,2,"fièvre, anosmie, myalgies, toux sèche",46,0,41,26.4,9
+migraine,31,4,"nausées, aura, photophobie",11,1,33,31.2,7
+arthritis,58,4,"limitation, gonflement, douleur articulaire, raideur",1,0,79,26.8,14
+diabetes,42,2,"fatigue, vision trouble, polyurie",34,0,44,29.5,10
+depression,59,2,"tristesse, anxiété",2,0,37,34.7,14
+arthritis,63,1,"gonflement, douleur articulaire",36,0,60,31.5,11
+arthritis,62,2,"limitation, raideur, douleur articulaire, gonflement",6,1,87,28.9,9
+migraine,57,3,"photophobie, nausées",83,1,44,26.5,12
+hypertension,55,1,"vertiges, fatigue, maux de tête",156,2,51,29.5,9
+depression,53,3,"anxiété, tristesse, perte d'intérêt, insomnie",48,1,46,28.4,17
+arthritis,44,4,"gonflement, limitation, douleur articulaire, raideur",92,0,100,29.4,12
+covid19,38,1,"toux sèche, myalgies, anosmie",61,0,41,28.2,8
+depression,62,5,"anxiété, tristesse, insomnie, perte d'intérêt",14,0,51,34.2,16
+copd,12,3,"toux chronique, infections",21,0,78,24.2,7
+hypertension,30,4,"fatigue, maux de tête",102,0,52,32.4,11
+eczema,63,1,"prurit, sécheresse",22,2,77,30.2,5
+depression,49,3,"perte d'intérêt, anxiété",6,1,19,26.5,12
+asthma,36,2,"oppression thoracique, sifflements, toux",38,1,79,31.5,6
+arthritis,59,2,"raideur, douleur articulaire, gonflement",4,1,56,30.5,12
+asthma,29,4,"essoufflement, oppression thoracique, sifflements, toux",34,1,44,25.5,10
+hypertension,53,4,"fatigue, vertiges, acouphènes",13,1,77,22.9,12
+diabetes,44,1,"fatigue, soif excessive",47,0,63,27.1,6
+asthma,20,3,"sifflements, toux",23,1,63,27.1,4
+arthritis,43,3,"raideur, limitation",9,0,75,27.6,9
+covid19,44,3,"fièvre, myalgies, anosmie",46,1,97,27.1,9
+covid19,50,3,"anosmie, myalgies",27,0,31,20.5,9
+arthritis,49,1,"gonflement, douleur articulaire",13,0,87,31.2,5
+migraine,39,4,"photophobie, nausées",3,2,70,31.8,12
+hypertension,18,5,"fatigue, acouphènes, vertiges",108,0,61,32.4,13
+migraine,15,3,"aura, photophobie",5,1,33,25.4,7
+arthritis,33,1,"gonflement, limitation, douleur articulaire",9,0,65,34.1,7
+copd,14,4,"toux chronique, expectoration, infections, dyspnée",82,0,74,28.6,12
+arthritis,54,3,"gonflement, raideur",39,0,77,31.8,13
+eczema,36,1,"lésions, sécheresse, rougeur, prurit",15,1,82,36.3,2
+eczema,89,1,"sécheresse, prurit, rougeur, lésions",61,0,50,30.2,11
+migraine,68,3,"aura, nausées, céphalées",11,0,57,29.5,7
+migraine,60,1,"céphalées, aura, photophobie, nausées",73,0,55,30.7,6
+hypertension,45,4,"maux de tête, acouphènes, fatigue",11,1,73,30.6,14
+covid19,59,3,"myalgies, fièvre, toux sèche",4,0,50,26.6,9
+diabetes,78,1,"fatigue, vision trouble",3,0,45,36.6,12
+copd,22,1,"expectoration, dyspnée, toux chronique",2,0,83,26.9,8
+heart_failure,58,2,"fatigue, prise de poids, œdèmes",17,0,82,31.3,16
+covid19,48,3,"fièvre, toux sèche, myalgies, anosmie",43,2,54,25.9,11
+arthritis,45,2,"limitation, raideur",5,0,46,29.3,11
+diabetes,71,1,"soif excessive, polyurie",67,0,85,22.5,9
+hypertension,66,1,"acouphènes, vertiges, maux de tête, fatigue",19,0,55,26.7,8
+depression,62,4,"insomnie, anxiété, perte d'intérêt, tristesse",4,0,0,29.4,17
+covid19,39,3,"toux sèche, fièvre, myalgies",28,1,69,25.3,6
+covid19,67,2,"fièvre, myalgies, toux sèche, anosmie",1,1,32,36.9,13
+diabetes,77,3,"fatigue, vision trouble",16,1,48,24.7,16
+arthritis,18,1,"raideur, limitation, gonflement, douleur articulaire",5,1,76,22.1,5
+covid19,38,5,"myalgies, toux sèche, fièvre",24,0,61,25.8,12
+diabetes,53,1,"fatigue, polyurie",6,0,98,21.9,6
+asthma,46,2,"oppression thoracique, toux, essoufflement, sifflements",10,2,58,33.1,2
+migraine,16,1,"céphalées, aura",13,0,65,26.3,0
+eczema,59,1,"lésions, prurit",1,1,80,26.2,0
+migraine,51,2,"céphalées, aura, nausées, photophobie",29,1,90,18.0,3
+arthritis,49,2,"raideur, limitation",6,0,100,28.1,6
+asthma,61,3,"essoufflement, toux",5,0,28,22.5,8
+covid19,54,3,"anosmie, myalgies, toux sèche, fièvre",12,0,77,27.7,10
+copd,15,3,"infections, expectoration",38,1,47,27.2,11
+migraine,38,2,"nausées, photophobie, céphalées",21,0,58,32.7,5
+hypertension,70,2,"vertiges, fatigue, acouphènes",23,0,75,18.0,6
+migraine,57,2,"céphalées, nausées",124,0,38,31.2,9
+heart_failure,97,4,"dyspnée, fatigue, œdèmes",33,2,83,18.0,17
+copd,29,1,"infections, dyspnée",116,0,59,31.1,10
+heart_failure,73,2,"prise de poids, dyspnée, fatigue, œdèmes",41,2,61,24.7,16
+heart_failure,16,4,"dyspnée, œdèmes, fatigue, prise de poids",51,1,50,23.8,14
+hypertension,24,3,"vertiges, acouphènes",1,0,51,18.6,5
+asthma,55,5,"sifflements, toux, oppression thoracique",19,0,41,30.0,12
+heart_failure,36,1,"œdèmes, dyspnée, fatigue, prise de poids",20,2,50,28.3,12
+copd,40,1,"dyspnée, expectoration, toux chronique",12,1,37,28.0,9
+migraine,58,2,"photophobie, nausées",22,0,54,31.8,6
+arthritis,77,4,"douleur articulaire, raideur, limitation, gonflement",44,0,72,34.5,12
+copd,30,1,"expectoration, toux chronique, infections, dyspnée",12,1,46,27.3,10
+eczema,26,2,"rougeur, lésions",21,2,39,31.3,5
+diabetes,45,5,"polyurie, vision trouble",23,0,71,27.2,17
+migraine,80,1,"nausées, photophobie",15,1,63,32.4,6
+hypertension,38,1,"fatigue, acouphènes, maux de tête",5,1,79,26.2,2
+heart_failure,32,1,"prise de poids, dyspnée",41,1,72,25.3,11
+arthritis,63,3,"gonflement, douleur articulaire, limitation",18,0,23,32.3,14
+heart_failure,61,1,"dyspnée, fatigue, prise de poids",87,0,72,25.2,12
+hypertension,42,1,"acouphènes, vertiges, maux de tête, fatigue",16,0,65,36.6,8
+copd,52,4,"infections, toux chronique",25,2,49,35.6,16
+eczema,65,2,"prurit, sécheresse",27,0,56,29.0,7
+diabetes,78,3,"vision trouble, fatigue, soif excessive, polyurie",10,0,55,35.2,13
+eczema,50,3,"rougeur, lésions",64,1,78,30.8,6
+migraine,37,4,"céphalées, aura, nausées, photophobie",11,0,52,29.4,9
+copd,53,5,"dyspnée, expectoration, toux chronique",60,0,51,32.6,18
+diabetes,39,4,"soif excessive, polyurie",1,1,68,29.1,15
+depression,26,2,"insomnie, tristesse, perte d'intérêt, anxiété",7,0,100,18.2,12
+eczema,46,2,"lésions, prurit, rougeur, sécheresse",37,0,22,30.9,8
+heart_failure,58,3,"fatigue, dyspnée",26,1,57,22.1,13
+covid19,52,2,"toux sèche, anosmie, fièvre",15,1,88,39.7,10
+migraine,51,3,"céphalées, nausées, aura, photophobie",29,0,50,30.1,8
+migraine,43,3,"aura, céphalées, photophobie",24,0,57,29.0,9
+diabetes,56,3,"polyurie, fatigue",23,1,67,21.2,8
+depression,45,2,"tristesse, anxiété",3,0,58,25.4,11
+arthritis,37,5,"gonflement, limitation",15,0,85,31.4,14
+eczema,67,3,"prurit, sécheresse, rougeur",5,0,26,26.5,7
+asthma,84,3,"essoufflement, toux",14,0,59,30.4,10
+arthritis,67,1,"limitation, raideur, gonflement, douleur articulaire",53,1,96,27.5,8
+migraine,47,1,"céphalées, photophobie, aura, nausées",8,1,12,30.6,5
+migraine,46,1,"céphalées, nausées, aura",92,0,51,35.3,8
+hypertension,33,3,"acouphènes, maux de tête, vertiges",49,1,56,23.0,11
+diabetes,53,1,"soif excessive, fatigue, vision trouble, polyurie",29,0,44,28.7,8
+covid19,38,1,"toux sèche, myalgies, anosmie, fièvre",21,2,74,23.2,1
+depression,51,2,"anxiété, insomnie",4,2,50,28.9,12
+asthma,52,2,"oppression thoracique, sifflements",32,0,62,25.1,7
+arthritis,70,5,"raideur, limitation, douleur articulaire",31,0,38,29.5,16
+eczema,50,4,"prurit, lésions, sécheresse",7,1,45,18.1,9
+diabetes,84,2,"fatigue, polyurie",17,0,80,22.8,10
+eczema,60,3,"sécheresse, rougeur, lésions, prurit",38,0,69,22.4,8
+copd,45,3,"dyspnée, expectoration, infections",5,0,25,21.7,13
+hypertension,41,1,"fatigue, maux de tête, vertiges, acouphènes",44,0,31,33.3,9
+depression,61,5,"perte d'intérêt, tristesse, insomnie",66,1,55,18.0,17
+hypertension,84,3,"acouphènes, maux de tête, vertiges",7,0,83,20.4,8
+migraine,66,3,"photophobie, aura, nausées",31,0,58,32.8,11
+hypertension,53,1,"maux de tête, fatigue, vertiges, acouphènes",29,1,60,35.8,10
+asthma,31,2,"oppression thoracique, sifflements, toux",33,0,50,29.6,5
+migraine,46,4,"aura, nausées, céphalées",9,1,96,36.3,6
+arthritis,81,1,"gonflement, limitation",15,0,89,29.7,7
+eczema,40,4,"rougeur, prurit, lésions",19,0,69,26.7,4
+arthritis,60,4,"raideur, gonflement, douleur articulaire, limitation",23,1,43,24.5,12
+copd,43,4,"toux chronique, infections, expectoration",10,0,54,30.3,18
+migraine,67,1,"nausées, aura, photophobie",27,0,70,24.7,2
+migraine,40,2,"aura, céphalées, photophobie, nausées",6,1,89,34.6,8
+depression,72,1,"tristesse, insomnie",1,1,45,30.5,15
+migraine,44,1,"aura, photophobie, céphalées",40,2,92,28.3,4
+eczema,29,2,"lésions, sécheresse, prurit",76,0,83,21.8,2
+asthma,65,1,"essoufflement, toux",1,0,46,28.9,8
+copd,48,4,"infections, toux chronique, expectoration, dyspnée",61,0,64,29.2,13
+depression,51,1,"perte d'intérêt, anxiété, insomnie",1,2,76,21.4,12
+covid19,36,1,"fièvre, toux sèche",59,0,62,26.6,6
+eczema,43,3,"rougeur, lésions, sécheresse, prurit",1,1,51,28.4,6
+asthma,78,2,"essoufflement, oppression thoracique, sifflements, toux",48,1,64,26.3,10
+hypertension,53,1,"fatigue, acouphènes",37,0,88,20.0,1
+arthritis,69,3,"limitation, gonflement",4,0,16,19.9,9
+copd,33,1,"toux chronique, expectoration",2,0,72,28.4,5
+heart_failure,48,2,"œdèmes, dyspnée, prise de poids, fatigue",22,0,47,25.0,14
+eczema,1,1,"sécheresse, rougeur, lésions, prurit",19,1,18,30.7,4
+arthritis,43,1,"raideur, limitation, douleur articulaire",11,1,72,25.1,6
+diabetes,55,3,"polyurie, soif excessive",10,1,89,36.3,10
+arthritis,75,1,"gonflement, limitation, douleur articulaire",1,1,74,28.3,10
+arthritis,60,1,"gonflement, douleur articulaire",8,1,17,25.2,9
+covid19,31,3,"fièvre, toux sèche, anosmie, myalgies",5,0,72,29.8,9
+covid19,25,3,"fièvre, anosmie, toux sèche, myalgies",1,1,46,31.4,10
+migraine,67,1,"photophobie, céphalées",7,0,35,36.1,9
+asthma,15,1,"toux, sifflements, oppression thoracique, essoufflement",9,0,85,24.4,0
+migraine,81,4,"céphalées, nausées",138,0,35,31.7,13
+eczema,41,1,"sécheresse, lésions",9,1,66,30.5,3
+migraine,56,3,"céphalées, nausées",74,1,58,25.6,10
+heart_failure,40,2,"dyspnée, fatigue",1,0,57,26.1,13
+heart_failure,84,2,"œdèmes, fatigue, prise de poids, dyspnée",9,0,34,35.1,18
+eczema,72,2,"rougeur, prurit, sécheresse, lésions",18,0,50,40.0,9
+eczema,47,4,"rougeur, sécheresse, lésions, prurit",12,0,63,32.8,8
+copd,62,3,"toux chronique, infections, dyspnée, expectoration",9,0,54,31.4,11
+migraine,55,3,"photophobie, aura, céphalées, nausées",6,1,40,27.8,10
+heart_failure,22,3,"dyspnée, fatigue, œdèmes, prise de poids",9,0,73,25.9,13
+depression,81,2,"insomnie, perte d'intérêt, anxiété, tristesse",26,0,93,29.0,12
+depression,65,1,"anxiété, insomnie, tristesse",3,0,39,31.3,15
+covid19,75,2,"toux sèche, myalgies, fièvre, anosmie",40,0,70,30.7,10
+copd,60,1,"toux chronique, dyspnée, infections",1,1,68,22.1,9
+depression,46,3,"perte d'intérêt, tristesse, anxiété, insomnie",65,1,23,30.2,13
+copd,22,2,"dyspnée, expectoration, infections",61,0,37,25.6,9
+diabetes,73,3,"fatigue, vision trouble, polyurie",4,0,62,28.1,15
+heart_failure,42,1,"fatigue, œdèmes, dyspnée",39,0,46,30.7,12
+migraine,45,4,"céphalées, aura, nausées",7,0,90,24.8,7
+copd,17,2,"expectoration, toux chronique, infections",1,0,62,32.8,13
+copd,33,4,"infections, dyspnée, toux chronique, expectoration",17,2,67,32.1,14
+asthma,64,2,"oppression thoracique, sifflements, essoufflement, toux",51,1,62,30.9,12
+migraine,31,4,"aura, photophobie",85,0,51,32.4,8
+diabetes,12,4,"vision trouble, soif excessive, polyurie",4,2,48,18.0,9
+asthma,22,3,"sifflements, oppression thoracique",17,0,54,26.7,6
+eczema,51,3,"lésions, rougeur, sécheresse, prurit",3,0,59,30.0,6
+covid19,32,1,"fièvre, myalgies, anosmie, toux sèche",9,2,79,29.0,4
+heart_failure,60,4,"dyspnée, œdèmes, fatigue, prise de poids",11,1,74,32.4,15
+hypertension,19,1,"fatigue, vertiges, acouphènes",15,1,57,28.5,6
+migraine,48,1,"céphalées, nausées, photophobie",18,2,59,32.2,6
+hypertension,49,3,"maux de tête, acouphènes",20,1,56,30.0,13
+eczema,41,4,"prurit, rougeur, sécheresse, lésions",21,1,45,19.8,5
+migraine,45,1,"aura, photophobie, nausées",57,1,92,30.6,4
+diabetes,35,4,"soif excessive, vision trouble, fatigue, polyurie",1,0,29,28.0,15
+asthma,78,2,"toux, sifflements, oppression thoracique, essoufflement",22,0,57,18.0,8
+copd,43,4,"dyspnée, toux chronique",9,0,54,22.3,13
+asthma,34,2,"essoufflement, oppression thoracique, sifflements",10,1,73,28.2,5
+hypertension,50,4,"vertiges, acouphènes, maux de tête, fatigue",21,0,44,31.3,11
+migraine,44,3,"aura, photophobie, nausées, céphalées",10,2,53,24.9,7
+arthritis,47,3,"limitation, raideur, gonflement",30,1,66,28.2,11
+heart_failure,38,4,"dyspnée, prise de poids, fatigue, œdèmes",1,1,25,29.0,14
+covid19,46,3,"anosmie, toux sèche, fièvre",72,2,57,34.3,9
+copd,53,2,"toux chronique, expectoration, infections, dyspnée",51,0,41,31.6,12
+hypertension,49,2,"vertiges, fatigue, maux de tête",26,0,82,29.7,8
+heart_failure,63,2,"œdèmes, fatigue, dyspnée, prise de poids",197,1,47,33.0,19
+eczema,59,1,"lésions, prurit, sécheresse",3,0,53,23.6,3
+copd,34,4,"dyspnée, toux chronique, expectoration",50,0,52,28.2,13
+heart_failure,35,2,"œdèmes, dyspnée, prise de poids",105,0,58,28.7,14
+migraine,30,1,"aura, nausées, photophobie, céphalées",27,0,44,23.9,0
+eczema,42,2,"prurit, rougeur",35,0,56,23.3,3
+diabetes,81,5,"vision trouble, fatigue, soif excessive",15,0,48,28.9,16
+covid19,32,1,"toux sèche, fièvre, anosmie, myalgies",36,1,34,22.0,7
+hypertension,42,3,"vertiges, acouphènes",1,0,50,25.5,10
+depression,52,2,"insomnie, tristesse",2,1,76,28.7,14
+arthritis,60,3,"douleur articulaire, gonflement",93,0,54,28.6,11
+depression,31,2,"anxiété, perte d'intérêt",39,1,65,24.9,8
+hypertension,47,1,"fatigue, acouphènes",61,0,37,26.7,6
+copd,42,3,"expectoration, toux chronique, infections",25,0,27,23.0,14
+hypertension,39,4,"maux de tête, acouphènes, fatigue",12,1,58,24.1,10
+hypertension,64,3,"fatigue, vertiges, acouphènes, maux de tête",45,0,42,31.6,12
+migraine,44,3,"nausées, aura, céphalées, photophobie",105,2,72,27.2,5
+asthma,58,3,"sifflements, oppression thoracique, toux, essoufflement",72,0,74,25.0,9
+arthritis,20,1,"gonflement, raideur, limitation",29,3,79,28.8,6
+diabetes,41,3,"soif excessive, polyurie",15,1,24,27.0,10
+diabetes,99,1,"soif excessive, fatigue, vision trouble",51,1,41,27.3,12
+heart_failure,46,4,"fatigue, dyspnée, prise de poids, œdèmes",38,1,54,27.4,17
+diabetes,29,4,"fatigue, soif excessive, polyurie",5,0,53,35.3,14
+arthritis,95,3,"limitation, gonflement, douleur articulaire",34,0,71,33.6,13
+heart_failure,34,2,"prise de poids, fatigue, dyspnée",9,1,43,25.0,13
+heart_failure,45,3,"fatigue, œdèmes, dyspnée, prise de poids",34,1,65,24.7,17
+copd,9,4,"infections, expectoration, toux chronique, dyspnée",28,0,75,21.4,10
+asthma,71,2,"essoufflement, toux",35,1,58,18.0,9
+depression,38,4,"perte d'intérêt, anxiété, insomnie",1,0,77,29.5,14
+eczema,55,3,"lésions, rougeur",66,1,44,34.3,10
+copd,40,3,"toux chronique, dyspnée",62,0,46,22.9,14
+covid19,31,4,"myalgies, toux sèche, fièvre",10,0,71,34.4,9
+asthma,67,2,"toux, essoufflement, sifflements, oppression thoracique",41,0,70,21.3,7
+asthma,44,1,"oppression thoracique, essoufflement, toux",3,1,74,28.4,6
+asthma,24,2,"toux, oppression thoracique, sifflements, essoufflement",1,0,47,23.9,5
+hypertension,49,4,"maux de tête, vertiges",30,1,19,19.5,10
+covid19,66,4,"anosmie, fièvre, myalgies",17,1,86,37.7,15
+copd,24,5,"infections, toux chronique, expectoration, dyspnée",23,0,83,24.2,12
+covid19,41,2,"anosmie, fièvre",61,1,29,24.0,6
+depression,68,2,"tristesse, insomnie, anxiété",103,3,83,25.8,15
+migraine,62,3,"aura, céphalées, photophobie",12,0,67,27.4,12
+covid19,36,1,"anosmie, toux sèche, myalgies",3,0,41,33.1,6
+asthma,55,4,"sifflements, toux, essoufflement",97,1,100,25.1,9
+depression,39,2,"tristesse, anxiété, perte d'intérêt",4,1,5,26.1,11
+migraine,64,5,"nausées, photophobie",7,0,80,28.6,9
+arthritis,24,2,"limitation, douleur articulaire, gonflement",27,0,61,25.4,6
+migraine,36,2,"aura, nausées, photophobie, céphalées",37,1,3,29.2,8
+arthritis,61,2,"raideur, gonflement",49,0,22,32.1,10
+diabetes,17,4,"fatigue, vision trouble, polyurie",7,1,42,37.2,13
+migraine,37,2,"nausées, aura",46,0,31,23.9,5
+arthritis,54,3,"gonflement, douleur articulaire, limitation",3,0,70,26.9,12
+eczema,62,3,"lésions, rougeur, prurit, sécheresse",47,0,90,30.0,4
+asthma,26,3,"essoufflement, sifflements, oppression thoracique",17,1,71,32.8,8
+hypertension,51,3,"maux de tête, acouphènes, vertiges, fatigue",31,0,62,31.2,13
+migraine,41,2,"céphalées, aura, nausées",1,0,63,26.8,5
+heart_failure,67,2,"fatigue, dyspnée, œdèmes, prise de poids",14,1,64,33.0,14
+covid19,60,3,"anosmie, myalgies, fièvre",5,1,37,33.7,11
+arthritis,24,2,"douleur articulaire, raideur, limitation",104,0,68,20.4,7
+copd,42,3,"infections, toux chronique, dyspnée, expectoration",3,0,78,29.6,12
+arthritis,33,1,"gonflement, raideur",32,0,34,25.0,7
+migraine,66,3,"nausées, céphalées, aura, photophobie",8,0,30,27.9,12
+arthritis,47,1,"raideur, gonflement",11,0,51,21.1,6
+depression,28,3,"tristesse, anxiété, perte d'intérêt, insomnie",82,2,52,28.1,13
+copd,49,3,"toux chronique, expectoration",34,0,61,24.0,12
+migraine,52,1,"photophobie, céphalées, nausées, aura",7,1,28,24.0,8
+hypertension,63,1,"vertiges, acouphènes, fatigue",14,0,69,29.3,8
+depression,56,3,"tristesse, perte d'intérêt",32,0,26,37.1,14
+copd,57,2,"expectoration, toux chronique, dyspnée",12,0,72,30.3,10
+covid19,41,2,"fièvre, anosmie, myalgies, toux sèche",1,0,74,25.1,5
+heart_failure,66,2,"dyspnée, œdèmes",18,0,49,22.8,13
+covid19,43,4,"anosmie, myalgies, toux sèche, fièvre",27,0,82,23.1,10
+arthritis,43,3,"douleur articulaire, limitation, gonflement, raideur",15,0,98,26.7,8
+arthritis,47,2,"raideur, gonflement, limitation",18,0,65,40.0,11
+diabetes,13,2,"soif excessive, fatigue, polyurie, vision trouble",29,1,65,32.7,10
+copd,29,1,"toux chronique, infections, expectoration",33,2,27,26.0,7
+arthritis,36,1,"limitation, gonflement",134,1,32,28.6,11
+diabetes,67,2,"polyurie, soif excessive",9,3,45,21.3,8
+covid19,74,1,"fièvre, anosmie, myalgies",23,1,51,28.6,10
+diabetes,73,2,"vision trouble, soif excessive, polyurie, fatigue",10,0,75,18.0,12
+covid19,55,4,"fièvre, anosmie, toux sèche",26,1,66,30.3,13
+migraine,59,2,"photophobie, nausées, aura, céphalées",4,1,20,26.7,8
+arthritis,40,1,"douleur articulaire, raideur, gonflement",48,2,55,23.5,6
+depression,29,3,"perte d'intérêt, insomnie, anxiété",20,0,64,23.3,14
+covid19,47,3,"toux sèche, fièvre",18,0,82,22.3,7
+heart_failure,61,3,"fatigue, prise de poids",45,0,77,32.1,19
+depression,63,2,"perte d'intérêt, tristesse, insomnie",8,0,40,27.7,14
+depression,19,3,"insomnie, anxiété, perte d'intérêt, tristesse",3,0,66,25.4,14
+covid19,33,1,"toux sèche, myalgies",5,0,24,29.6,7
+arthritis,20,3,"raideur, limitation, gonflement",15,2,75,27.3,9
+asthma,27,3,"essoufflement, sifflements, oppression thoracique, toux",24,0,33,28.9,10
+hypertension,34,3,"maux de tête, vertiges, acouphènes",39,1,62,19.6,6
+diabetes,62,1,"polyurie, vision trouble, fatigue, soif excessive",131,0,74,23.5,10
+arthritis,22,2,"douleur articulaire, limitation, gonflement, raideur",39,0,71,24.0,7
+migraine,40,1,"photophobie, nausées",30,0,42,22.8,3
+diabetes,58,3,"fatigue, soif excessive, vision trouble, polyurie",50,1,39,23.5,15
+covid19,58,4,"myalgies, anosmie, fièvre, toux sèche",13,0,67,22.4,10
+heart_failure,67,3,"œdèmes, fatigue, prise de poids, dyspnée",14,1,42,24.8,19
+asthma,60,5,"oppression thoracique, toux, essoufflement, sifflements",82,0,75,33.8,12
+hypertension,39,1,"maux de tête, acouphènes",16,0,60,27.4,6
+arthritis,20,2,"raideur, limitation",13,0,66,29.4,6
+heart_failure,86,2,"fatigue, dyspnée",17,0,62,25.3,17
+copd,53,2,"expectoration, toux chronique, dyspnée, infections",41,1,40,27.9,8
+asthma,49,3,"toux, sifflements, essoufflement",6,0,34,29.6,10
+depression,37,2,"tristesse, insomnie, anxiété, perte d'intérêt",3,0,55,24.8,8
+asthma,46,3,"toux, essoufflement",6,0,64,32.6,6
+eczema,42,3,"prurit, lésions, sécheresse, rougeur",7,0,42,27.4,8
+heart_failure,59,4,"prise de poids, dyspnée",18,0,65,26.5,20
+eczema,52,1,"rougeur, prurit, sécheresse",26,1,49,25.5,5
+eczema,65,3,"lésions, rougeur, sécheresse",29,0,60,18.0,5
+arthritis,46,2,"gonflement, douleur articulaire, limitation, raideur",3,0,68,35.1,9
+asthma,76,5,"essoufflement, oppression thoracique, toux, sifflements",50,2,11,27.0,18
+arthritis,50,2,"raideur, limitation, douleur articulaire, gonflement",84,0,31,22.8,6
+migraine,54,3,"céphalées, nausées",24,0,42,20.0,5
+arthritis,32,2,"limitation, gonflement, raideur, douleur articulaire",11,0,77,28.7,7
+heart_failure,43,2,"fatigue, dyspnée, œdèmes, prise de poids",17,0,67,24.0,13
+hypertension,49,1,"vertiges, acouphènes, fatigue",26,0,67,34.0,9
+migraine,48,2,"aura, photophobie, nausées",76,0,58,23.4,7
+hypertension,45,2,"fatigue, maux de tête",45,0,45,26.9,9
+asthma,47,3,"oppression thoracique, essoufflement",1,3,65,20.6,8
+depression,47,1,"tristesse, perte d'intérêt, anxiété, insomnie",24,1,43,37.1,15
+copd,59,2,"expectoration, toux chronique",3,1,22,25.8,11
+eczema,73,2,"rougeur, prurit",23,0,94,26.7,6
+heart_failure,54,1,"dyspnée, prise de poids, œdèmes, fatigue",119,0,56,30.6,14
+hypertension,40,2,"fatigue, maux de tête, acouphènes, vertiges",47,0,76,33.1,5
+copd,54,3,"toux chronique, infections, expectoration, dyspnée",15,1,72,27.3,15
+diabetes,58,2,"fatigue, vision trouble, polyurie, soif excessive",5,0,61,22.0,10
+arthritis,27,2,"limitation, gonflement, raideur, douleur articulaire",13,0,56,25.0,8
+eczema,61,4,"sécheresse, prurit",54,0,20,23.7,9
+hypertension,25,3,"acouphènes, fatigue, vertiges, maux de tête",31,2,71,28.3,9
+migraine,47,3,"aura, photophobie",56,0,56,24.9,7
+heart_failure,29,4,"prise de poids, dyspnée, œdèmes",49,0,24,18.0,16
+arthritis,39,3,"douleur articulaire, limitation, raideur",37,1,71,20.8,7
+covid19,52,1,"fièvre, myalgies",26,0,54,23.7,6
+copd,26,3,"expectoration, infections, dyspnée",17,0,98,24.8,10
+heart_failure,59,3,"œdèmes, fatigue",6,0,81,28.0,15
+hypertension,37,3,"fatigue, acouphènes",16,0,59,20.7,4
+depression,58,2,"perte d'intérêt, tristesse, anxiété, insomnie",13,0,54,23.9,9
+migraine,54,3,"céphalées, nausées, aura",2,0,65,29.0,9
+diabetes,39,2,"polyurie, vision trouble, fatigue",84,1,50,25.4,7
+covid19,36,1,"fièvre, anosmie, myalgies, toux sèche",11,1,68,29.2,5
+eczema,26,4,"sécheresse, lésions, prurit, rougeur",14,2,26,21.8,7
+heart_failure,39,1,"fatigue, dyspnée, œdèmes, prise de poids",141,0,61,26.6,12
+covid19,32,1,"fièvre, anosmie, toux sèche",34,0,66,27.1,7
+depression,45,3,"anxiété, tristesse",4,1,73,20.7,9
+hypertension,21,2,"acouphènes, maux de tête, fatigue",8,0,62,22.0,3
+migraine,73,3,"céphalées, nausées, photophobie",7,0,41,28.9,11
+arthritis,42,2,"douleur articulaire, raideur, gonflement",4,1,54,25.0,8
+copd,31,4,"infections, expectoration, dyspnée, toux chronique",9,2,82,30.8,11
+hypertension,47,4,"fatigue, vertiges, maux de tête",34,1,55,29.5,9
+asthma,58,2,"essoufflement, toux, sifflements",32,0,36,21.4,8
+diabetes,47,1,"vision trouble, polyurie, fatigue",15,1,65,30.8,8
+diabetes,61,3,"fatigue, polyurie, vision trouble",18,0,56,33.4,15
+arthritis,20,1,"raideur, douleur articulaire, limitation",11,1,37,29.2,7
+migraine,45,1,"nausées, photophobie, céphalées",1,0,100,24.6,0
+hypertension,64,3,"acouphènes, fatigue, vertiges, maux de tête",6,1,43,26.6,12
+hypertension,41,3,"maux de tête, acouphènes",47,0,67,23.3,10
+depression,47,3,"tristesse, anxiété, perte d'intérêt",22,0,57,28.4,10
+eczema,30,3,"prurit, lésions, rougeur",42,0,63,25.7,7
+asthma,59,2,"oppression thoracique, toux, essoufflement, sifflements",27,1,83,25.6,6
+copd,51,3,"dyspnée, toux chronique",11,0,56,25.7,10
+migraine,23,3,"céphalées, aura, nausées, photophobie",12,0,46,36.0,6
+heart_failure,53,2,"œdèmes, prise de poids, dyspnée",8,0,41,26.6,15
+eczema,74,2,"sécheresse, lésions, prurit",50,2,49,27.0,10
+copd,54,4,"expectoration, toux chronique, dyspnée",20,2,25,27.3,15
+covid19,34,1,"fièvre, toux sèche, anosmie",15,0,82,27.9,3
+asthma,51,2,"toux, essoufflement, oppression thoracique",15,0,75,18.8,4
+copd,40,4,"dyspnée, expectoration, toux chronique, infections",18,1,55,28.6,16
+hypertension,52,2,"maux de tête, fatigue",23,1,45,24.9,11
+migraine,78,3,"céphalées, aura, photophobie",11,0,44,22.9,13
+covid19,82,2,"fièvre, anosmie, myalgies",19,2,81,25.5,9
+copd,36,2,"infections, toux chronique",16,2,86,18.0,10
+arthritis,84,3,"raideur, gonflement, douleur articulaire, limitation",64,0,44,22.9,10
+diabetes,35,2,"soif excessive, vision trouble, fatigue",20,1,53,26.8,11
+heart_failure,41,1,"prise de poids, dyspnée",15,0,100,33.3,14
+depression,78,4,"tristesse, anxiété, insomnie",21,0,75,37.0,18
+migraine,11,3,"nausées, photophobie",4,1,60,32.7,10
+migraine,36,3,"photophobie, nausées, aura, céphalées",28,1,56,32.2,8
+depression,53,1,"tristesse, insomnie, perte d'intérêt",65,0,78,28.9,10
+heart_failure,30,1,"fatigue, œdèmes, prise de poids, dyspnée",14,0,35,18.0,8
+hypertension,96,4,"maux de tête, vertiges",12,0,59,26.4,14
+heart_failure,32,2,"œdèmes, fatigue, prise de poids",24,0,37,25.6,12
+eczema,30,3,"lésions, prurit",68,0,58,21.2,4
+heart_failure,40,3,"prise de poids, fatigue, œdèmes, dyspnée",7,0,64,26.5,14
+diabetes,56,2,"fatigue, soif excessive",2,1,72,25.6,9
+copd,82,3,"expectoration, infections",43,0,86,26.9,13
+arthritis,32,3,"douleur articulaire, gonflement",20,0,51,22.9,11
+depression,34,2,"perte d'intérêt, tristesse",9,0,66,23.8,9
+hypertension,35,4,"maux de tête, acouphènes, fatigue",16,2,44,20.8,11
+migraine,69,3,"aura, nausées, céphalées, photophobie",1,0,26,34.3,12
+hypertension,3,3,"acouphènes, maux de tête, vertiges",18,0,54,24.7,8
+depression,34,3,"tristesse, anxiété, insomnie, perte d'intérêt",5,0,58,28.7,12
+covid19,43,3,"toux sèche, fièvre, anosmie, myalgies",24,1,86,23.1,9
+diabetes,36,2,"soif excessive, vision trouble, polyurie, fatigue",16,0,51,36.3,10
+diabetes,60,5,"soif excessive, fatigue, vision trouble, polyurie",5,0,29,27.4,13
+heart_failure,31,1,"prise de poids, fatigue, œdèmes, dyspnée",64,1,47,31.0,15
+depression,25,2,"tristesse, insomnie, perte d'intérêt",2,0,78,33.5,9
+asthma,87,3,"sifflements, essoufflement, oppression thoracique",46,1,49,26.7,11
+covid19,64,3,"anosmie, myalgies, fièvre, toux sèche",35,0,74,25.2,9
+depression,51,4,"perte d'intérêt, tristesse, insomnie",14,1,51,29.7,18
+hypertension,53,4,"acouphènes, fatigue, maux de tête",48,2,56,24.0,11
+eczema,47,3,"lésions, sécheresse, prurit",40,0,36,30.0,7
+depression,64,1,"perte d'intérêt, anxiété, insomnie",74,1,76,26.3,12
+covid19,30,2,"myalgies, anosmie",57,1,67,23.9,10
+depression,29,1,"perte d'intérêt, tristesse, insomnie, anxiété",25,1,42,30.8,12
+depression,44,3,"perte d'intérêt, tristesse",40,1,91,19.4,11
+heart_failure,34,5,"fatigue, dyspnée",34,1,69,31.3,22
+asthma,44,2,"oppression thoracique, essoufflement, sifflements",13,0,31,28.3,7
+covid19,89,4,"myalgies, fièvre",20,3,26,23.3,16
+diabetes,55,2,"fatigue, vision trouble",9,0,68,20.1,8
+arthritis,34,3,"douleur articulaire, gonflement, limitation, raideur",8,0,60,23.2,10
+asthma,56,1,"oppression thoracique, toux",2,0,48,25.9,3
+asthma,65,3,"sifflements, oppression thoracique",6,0,20,20.2,13
+eczema,1,4,"prurit, rougeur",42,2,48,30.1,6
+arthritis,68,1,"douleur articulaire, gonflement, limitation, raideur",29,0,29,22.0,9
+asthma,65,1,"sifflements, essoufflement, toux, oppression thoracique",25,0,64,33.7,11
+hypertension,54,2,"fatigue, maux de tête, vertiges",15,0,69,25.3,8
+diabetes,21,3,"polyurie, vision trouble, fatigue",50,0,67,32.8,9
+asthma,25,3,"toux, sifflements, oppression thoracique",13,1,56,32.9,10
+diabetes,27,4,"vision trouble, polyurie, soif excessive",1,0,35,18.0,9
+heart_failure,46,3,"œdèmes, dyspnée, fatigue",12,1,96,32.7,10
+depression,36,2,"insomnie, perte d'intérêt, tristesse",5,1,36,25.4,12
+covid19,67,4,"toux sèche, myalgies, fièvre",33,0,80,30.3,13
+heart_failure,41,2,"prise de poids, dyspnée, fatigue",22,1,59,27.7,13
+diabetes,62,1,"vision trouble, polyurie",36,0,53,33.2,13
+asthma,40,2,"oppression thoracique, essoufflement, sifflements, toux",25,1,34,23.1,5
+arthritis,51,5,"limitation, douleur articulaire, raideur, gonflement",58,0,80,32.8,14
+diabetes,54,4,"vision trouble, soif excessive, fatigue, polyurie",35,1,75,18.0,14
+asthma,37,1,"sifflements, essoufflement, toux, oppression thoracique",54,1,65,25.4,6
+copd,41,4,"toux chronique, infections, expectoration, dyspnée",162,0,58,32.8,17
+eczema,40,3,"lésions, rougeur",38,0,78,28.7,5
+hypertension,48,2,"maux de tête, vertiges, acouphènes, fatigue",44,1,61,36.8,9
+hypertension,36,3,"vertiges, maux de tête",40,0,38,27.3,9
+migraine,29,2,"aura, nausées, céphalées",2,0,97,28.6,2
+migraine,46,1,"nausées, photophobie",20,2,22,28.7,7
+heart_failure,81,3,"fatigue, prise de poids, œdèmes",1,2,57,25.0,18
+eczema,50,2,"prurit, lésions, sécheresse",13,0,78,23.1,1
+covid19,14,2,"myalgies, fièvre, anosmie, toux sèche",6,0,34,25.4,4
+hypertension,26,2,"vertiges, fatigue, maux de tête",122,0,42,31.5,9
+migraine,56,3,"nausées, aura",42,0,69,31.6,10
+eczema,85,2,"prurit, rougeur, sécheresse, lésions",27,2,37,31.3,11
+depression,100,3,"tristesse, anxiété",78,0,58,24.4,16
+covid19,50,3,"myalgies, toux sèche",49,0,50,33.9,12
+diabetes,51,2,"vision trouble, polyurie, soif excessive, fatigue",2,1,38,27.8,9
+eczema,58,1,"sécheresse, lésions, prurit",20,0,58,18.0,1
+arthritis,45,1,"douleur articulaire, gonflement, raideur, limitation",13,0,64,27.8,5
+migraine,19,2,"nausées, photophobie, céphalées, aura",23,2,79,29.4,5
+diabetes,46,2,"fatigue, polyurie, vision trouble, soif excessive",40,2,72,25.6,11
+diabetes,7,1,"soif excessive, vision trouble, polyurie, fatigue",2,0,46,26.8,5
+migraine,38,1,"nausées, aura",61,1,63,25.2,0
+copd,37,4,"infections, toux chronique",69,0,53,24.4,13
+copd,66,2,"toux chronique, expectoration",5,0,79,25.3,11
+hypertension,60,2,"vertiges, maux de tête, fatigue",20,0,66,18.6,4
+migraine,56,3,"nausées, photophobie, aura",1,0,49,29.1,7
+migraine,64,4,"nausées, céphalées",6,0,26,18.0,7
+hypertension,84,3,"maux de tête, acouphènes, fatigue",11,0,71,29.2,17
+hypertension,47,2,"maux de tête, acouphènes, vertiges",38,0,62,33.4,9
+heart_failure,41,4,"dyspnée, œdèmes, prise de poids",6,1,51,31.6,18
+covid19,49,2,"myalgies, anosmie",3,2,49,26.5,8
+asthma,55,4,"toux, sifflements, oppression thoracique, essoufflement",80,1,37,30.1,14
+hypertension,42,3,"fatigue, acouphènes, maux de tête, vertiges",6,1,5,25.7,10
+asthma,37,1,"toux, oppression thoracique, sifflements, essoufflement",45,0,53,30.9,5
+arthritis,47,1,"douleur articulaire, raideur",6,1,81,27.7,3
+covid19,30,2,"fièvre, anosmie, myalgies",41,0,44,19.9,6
+covid19,82,1,"myalgies, anosmie",10,1,95,30.7,8
+eczema,50,2,"lésions, prurit, sécheresse",19,0,58,18.2,7
+heart_failure,62,2,"dyspnée, prise de poids",62,0,10,24.3,16
+copd,43,3,"dyspnée, toux chronique, infections",15,0,36,32.5,13
+covid19,48,4,"myalgies, toux sèche, fièvre, anosmie",95,0,73,32.5,12
+eczema,33,1,"sécheresse, prurit",3,1,97,35.0,1
+arthritis,78,2,"gonflement, raideur, limitation",49,2,30,38.3,16
+migraine,54,2,"nausées, aura, photophobie",12,0,30,30.6,8
+eczema,33,2,"prurit, sécheresse",1,2,60,28.1,6
+covid19,47,1,"toux sèche, fièvre",18,0,45,23.9,5
+copd,47,3,"dyspnée, toux chronique, expectoration, infections",20,0,73,26.0,12
+hypertension,50,3,"fatigue, maux de tête",24,1,64,19.4,9
+hypertension,68,3,"acouphènes, fatigue, vertiges",96,1,61,22.1,10
+eczema,34,3,"lésions, prurit, sécheresse, rougeur",78,0,87,19.8,3
+depression,64,2,"perte d'intérêt, insomnie, tristesse",39,3,35,27.5,14
+copd,48,1,"infections, expectoration, toux chronique",20,0,33,37.5,13
+migraine,60,2,"aura, nausées",19,0,71,25.4,7
+depression,28,4,"tristesse, insomnie, anxiété",15,1,62,28.1,16
+copd,74,2,"infections, expectoration, dyspnée, toux chronique",34,1,31,29.2,12
+heart_failure,36,3,"prise de poids, œdèmes, fatigue, dyspnée",18,1,76,35.6,14
+migraine,53,4,"nausées, aura",1,1,78,25.9,7
+copd,59,2,"dyspnée, expectoration",15,0,72,34.7,11
+copd,49,2,"toux chronique, expectoration",6,0,73,23.2,10
+hypertension,51,2,"fatigue, acouphènes",5,0,38,25.9,8
+heart_failure,51,3,"prise de poids, dyspnée, fatigue, œdèmes",9,0,23,29.2,16
+copd,39,4,"toux chronique, expectoration",39,0,68,28.2,13
+heart_failure,50,2,"fatigue, dyspnée, prise de poids",8,0,45,31.2,15
+arthritis,62,3,"douleur articulaire, raideur",53,1,44,23.4,11
+heart_failure,38,1,"prise de poids, dyspnée",25,0,51,23.7,13
+asthma,54,2,"toux, sifflements, essoufflement, oppression thoracique",33,0,13,31.4,8
+migraine,76,1,"céphalées, nausées, photophobie",27,1,25,24.4,6
+hypertension,24,3,"vertiges, maux de tête",35,1,86,23.8,7
+hypertension,67,2,"maux de tête, fatigue, vertiges",23,0,100,27.4,8
+hypertension,41,4,"fatigue, maux de tête, acouphènes, vertiges",5,1,57,31.0,12
+hypertension,100,4,"maux de tête, fatigue",56,0,58,22.5,15
+copd,44,3,"expectoration, dyspnée, infections, toux chronique",63,0,56,37.8,15
+hypertension,63,2,"fatigue, acouphènes",19,1,84,25.0,8
+heart_failure,61,4,"dyspnée, œdèmes, fatigue, prise de poids",4,0,58,18.0,19
+asthma,46,3,"essoufflement, sifflements, toux",8,0,42,26.0,8
+eczema,51,2,"sécheresse, prurit, lésions, rougeur",4,2,53,27.4,6
+diabetes,43,2,"polyurie, fatigue, vision trouble",33,0,45,22.4,8
+covid19,19,4,"myalgies, toux sèche, fièvre, anosmie",7,1,91,18.7,8
+eczema,42,3,"lésions, sécheresse, prurit",4,0,29,18.0,8
+eczema,19,2,"prurit, lésions, sécheresse",76,0,40,24.3,0
+heart_failure,35,3,"dyspnée, fatigue",90,0,35,32.0,18
+hypertension,48,3,"acouphènes, fatigue, maux de tête",31,1,69,26.0,10
+copd,40,2,"expectoration, dyspnée, toux chronique, infections",2,0,48,20.7,12
+heart_failure,15,1,"prise de poids, dyspnée",16,2,42,33.0,11
+copd,74,2,"toux chronique, infections, expectoration",12,1,79,29.7,14
+diabetes,66,2,"polyurie, fatigue, soif excessive, vision trouble",24,0,49,23.0,11
+arthritis,39,3,"douleur articulaire, gonflement, limitation, raideur",11,2,32,18.0,11
+covid19,49,2,"toux sèche, fièvre",7,0,63,20.5,6
+arthritis,37,4,"raideur, limitation, gonflement",3,0,62,32.1,11
+heart_failure,68,2,"fatigue, dyspnée, œdèmes, prise de poids",66,0,74,28.0,17
+hypertension,16,2,"vertiges, maux de tête, fatigue",153,0,59,30.1,8
+covid19,38,3,"toux sèche, anosmie, myalgies, fièvre",48,0,60,24.4,9
+eczema,53,2,"rougeur, prurit, sécheresse",48,1,70,28.3,8
+depression,33,2,"anxiété, perte d'intérêt, tristesse",28,0,27,33.3,8
+asthma,43,1,"oppression thoracique, sifflements",99,3,87,35.4,8
+migraine,68,2,"photophobie, nausées, aura",35,1,64,27.7,5
+depression,47,4,"anxiété, perte d'intérêt, tristesse, insomnie",2,0,36,22.7,15
+hypertension,63,2,"acouphènes, fatigue, maux de tête, vertiges",26,1,65,19.5,7
+heart_failure,57,5,"dyspnée, fatigue, œdèmes, prise de poids",22,1,74,25.9,16
+eczema,51,3,"sécheresse, prurit, lésions",17,0,42,29.0,8
+heart_failure,27,5,"prise de poids, dyspnée",19,1,83,31.5,16
+hypertension,48,1,"fatigue, maux de tête",46,0,68,32.1,9
+arthritis,68,3,"gonflement, raideur",26,2,68,26.5,12
+covid19,34,2,"myalgies, toux sèche",24,0,49,20.0,5
+depression,45,4,"anxiété, tristesse, insomnie, perte d'intérêt",31,0,59,32.6,15
+copd,34,2,"infections, dyspnée, expectoration",1,0,52,26.4,12
+eczema,39,1,"sécheresse, prurit, rougeur",2,1,100,28.1,1
+covid19,21,1,"anosmie, toux sèche, fièvre",23,2,74,35.6,7
+covid19,47,2,"myalgies, fièvre",25,0,64,25.8,8
+eczema,27,3,"prurit, rougeur, lésions",51,0,77,24.3,6
+diabetes,53,3,"soif excessive, fatigue, polyurie",2,1,88,27.7,11
+covid19,57,1,"anosmie, fièvre",7,1,76,29.9,7
+arthritis,64,1,"raideur, gonflement",41,1,87,24.0,6
+diabetes,45,3,"soif excessive, polyurie, fatigue",2,0,54,31.2,9
+asthma,48,4,"toux, oppression thoracique, essoufflement",67,1,45,23.8,6
+arthritis,52,4,"limitation, raideur, douleur articulaire, gonflement",4,1,91,40.0,14
+arthritis,42,2,"douleur articulaire, gonflement",31,0,70,19.3,10
+heart_failure,65,4,"prise de poids, œdèmes, dyspnée, fatigue",33,1,21,26.6,21
+heart_failure,40,1,"œdèmes, prise de poids, fatigue, dyspnée",47,0,62,22.6,9
+diabetes,66,4,"vision trouble, polyurie, soif excessive, fatigue",2,1,66,27.5,12
+asthma,41,1,"essoufflement, toux, sifflements, oppression thoracique",10,0,62,22.5,3
+asthma,77,3,"essoufflement, oppression thoracique",32,0,45,25.0,13
+covid19,46,3,"myalgies, toux sèche",36,0,48,25.2,13
+copd,50,3,"infections, toux chronique, dyspnée",18,0,81,18.0,10
+hypertension,72,1,"vertiges, fatigue, acouphènes",29,0,84,31.4,7
+asthma,56,2,"sifflements, essoufflement",8,1,77,26.0,8
+diabetes,58,2,"vision trouble, fatigue, polyurie",1,0,53,23.4,11
+hypertension,53,2,"fatigue, vertiges, acouphènes",8,0,47,25.3,8
+eczema,31,3,"rougeur, prurit",14,0,58,28.9,9
+depression,30,1,"tristesse, anxiété, perte d'intérêt, insomnie",59,0,67,20.4,12
+copd,34,2,"toux chronique, infections, dyspnée",28,0,43,23.5,11
+copd,71,3,"toux chronique, infections",36,1,46,25.2,14
+migraine,24,2,"nausées, céphalées, aura",26,0,58,33.7,4
+heart_failure,82,2,"prise de poids, dyspnée, œdèmes, fatigue",14,0,75,30.4,18
+asthma,84,2,"toux, oppression thoracique, sifflements, essoufflement",5,0,68,32.1,12
+heart_failure,45,4,"prise de poids, dyspnée, œdèmes, fatigue",7,0,96,20.6,15
+arthritis,67,2,"douleur articulaire, limitation, gonflement",1,0,53,29.2,7
+heart_failure,74,4,"prise de poids, œdèmes",24,0,44,25.8,19
+covid19,62,3,"myalgies, fièvre, toux sèche, anosmie",8,0,47,22.7,13
+covid19,24,2,"myalgies, fièvre, anosmie, toux sèche",49,0,48,20.9,5
+hypertension,30,3,"fatigue, vertiges, acouphènes",18,0,26,24.9,8
+diabetes,34,4,"vision trouble, soif excessive, fatigue",34,2,66,28.9,12
+asthma,31,1,"toux, essoufflement",2,1,68,21.7,3
+asthma,49,4,"toux, oppression thoracique",85,1,56,29.4,12
+covid19,17,2,"anosmie, toux sèche, myalgies",15,0,100,21.8,3
+diabetes,47,3,"fatigue, vision trouble, soif excessive",17,1,47,27.0,12
+hypertension,44,1,"acouphènes, vertiges, maux de tête, fatigue",71,0,98,18.0,4
+arthritis,61,1,"raideur, gonflement",12,0,83,27.0,10
+migraine,33,2,"nausées, aura",7,0,49,23.8,3
+copd,38,2,"dyspnée, expectoration, toux chronique, infections",81,1,29,24.0,12
+migraine,54,2,"aura, photophobie, nausées, céphalées",63,0,59,25.0,8
+covid19,29,2,"anosmie, myalgies",4,0,58,28.5,8
+migraine,69,2,"céphalées, aura",9,0,53,24.9,5
+copd,48,4,"dyspnée, toux chronique, infections",23,0,88,28.4,11
+arthritis,75,2,"gonflement, limitation, douleur articulaire, raideur",14,2,100,27.1,12
+depression,72,2,"insomnie, anxiété",5,0,77,28.8,9
+eczema,55,3,"lésions, prurit, sécheresse",28,0,93,27.4,7
+hypertension,67,3,"fatigue, vertiges, acouphènes, maux de tête",41,2,64,35.8,15
+heart_failure,42,4,"fatigue, prise de poids",10,0,80,19.7,14
+copd,46,1,"infections, toux chronique, dyspnée, expectoration",25,0,86,33.2,8
+hypertension,35,4,"vertiges, acouphènes, fatigue",44,2,56,28.0,9
+arthritis,61,3,"gonflement, limitation, raideur",4,0,75,30.9,10
+covid19,70,5,"fièvre, myalgies, toux sèche, anosmie",29,1,21,19.1,15
+migraine,40,2,"photophobie, nausées, aura",2,1,28,28.8,8
+eczema,58,4,"lésions, prurit, sécheresse, rougeur",31,1,64,35.3,12
+arthritis,18,2,"raideur, douleur articulaire, gonflement",4,0,88,36.7,9
+diabetes,32,4,"polyurie, soif excessive",45,1,55,23.6,12
+depression,46,3,"tristesse, insomnie, perte d'intérêt",10,0,70,31.7,17
+copd,92,1,"toux chronique, expectoration, infections, dyspnée",5,1,73,26.8,12
+covid19,35,2,"fièvre, anosmie, toux sèche, myalgies",16,1,45,18.0,7
+diabetes,67,3,"soif excessive, fatigue, vision trouble, polyurie",111,0,53,18.2,13
+diabetes,48,2,"polyurie, fatigue, vision trouble, soif excessive",45,0,32,32.8,12
+depression,72,2,"anxiété, insomnie, perte d'intérêt",31,0,65,31.7,15
+arthritis,60,1,"douleur articulaire, gonflement, raideur",17,0,63,26.2,8
+depression,62,2,"insomnie, tristesse",14,1,52,28.0,14
+asthma,67,1,"sifflements, oppression thoracique, essoufflement, toux",61,0,63,21.9,7
+arthritis,29,3,"douleur articulaire, limitation, raideur, gonflement",3,0,58,18.0,6
+arthritis,51,3,"limitation, gonflement",28,0,54,20.6,9
+heart_failure,21,3,"œdèmes, fatigue, dyspnée",12,1,68,29.6,13
+hypertension,95,3,"vertiges, fatigue, acouphènes, maux de tête",10,0,14,35.0,16
+diabetes,20,1,"soif excessive, fatigue",39,0,26,21.1,4
+migraine,75,4,"aura, photophobie",32,0,24,20.9,9
+copd,68,3,"infections, dyspnée, expectoration",9,1,62,32.1,15
+asthma,54,3,"essoufflement, oppression thoracique, sifflements",35,0,83,29.6,7
+asthma,57,3,"oppression thoracique, essoufflement",44,0,75,31.0,7
+copd,34,4,"expectoration, toux chronique, dyspnée",1,0,54,28.9,16
+eczema,44,3,"lésions, prurit, rougeur, sécheresse",31,0,20,27.0,6
+depression,38,1,"anxiété, perte d'intérêt, tristesse",121,0,54,34.3,13
+eczema,51,3,"sécheresse, prurit, lésions, rougeur",10,2,42,20.3,9
+eczema,79,2,"lésions, rougeur",5,0,95,22.6,5
+heart_failure,50,3,"fatigue, dyspnée, prise de poids, œdèmes",12,1,47,30.2,16
+hypertension,78,1,"acouphènes, fatigue, maux de tête, vertiges",8,0,62,23.9,6
+copd,27,2,"toux chronique, dyspnée, expectoration",16,0,64,21.5,8
+diabetes,51,2,"vision trouble, polyurie",12,0,43,21.6,8
+copd,3,3,"expectoration, toux chronique, infections, dyspnée",1,1,59,25.4,12
+diabetes,37,2,"polyurie, soif excessive, vision trouble, fatigue",20,1,86,31.8,10
+migraine,48,4,"nausées, photophobie, céphalées, aura",12,1,74,31.1,8
+hypertension,61,1,"acouphènes, vertiges",17,0,80,22.0,7
+heart_failure,50,3,"fatigue, œdèmes, prise de poids",7,0,63,27.0,14
+covid19,27,2,"fièvre, toux sèche",12,1,60,39.3,10
+copd,61,2,"infections, expectoration, toux chronique, dyspnée",4,1,52,19.3,8
+covid19,59,2,"fièvre, myalgies, anosmie",8,0,25,29.7,10
+copd,70,2,"toux chronique, infections, dyspnée",78,0,79,22.3,13
+copd,50,1,"dyspnée, expectoration, infections, toux chronique",7,0,70,27.7,5
+arthritis,35,2,"gonflement, raideur, limitation",65,0,46,31.0,12
+hypertension,72,1,"vertiges, maux de tête, acouphènes, fatigue",12,0,100,22.1,3
+copd,100,3,"expectoration, toux chronique, dyspnée, infections",3,0,67,29.7,16
+diabetes,98,4,"vision trouble, soif excessive, polyurie",85,2,83,29.5,13
+heart_failure,38,1,"fatigue, prise de poids, œdèmes, dyspnée",8,0,22,33.0,14
+asthma,31,3,"essoufflement, sifflements, oppression thoracique, toux",4,2,56,23.4,7
+covid19,80,5,"anosmie, fièvre, myalgies",169,0,70,22.0,14
+migraine,62,3,"nausées, aura, photophobie",1,0,68,36.3,11
+heart_failure,43,2,"prise de poids, œdèmes",1,0,45,33.0,14
+hypertension,41,3,"acouphènes, maux de tête, fatigue, vertiges",5,1,50,33.9,8
+copd,42,1,"infections, expectoration",6,0,71,26.6,10
+hypertension,28,2,"maux de tête, vertiges, fatigue, acouphènes",25,1,76,23.4,8
+depression,19,3,"perte d'intérêt, tristesse, insomnie",59,0,41,19.4,10
+copd,48,3,"infections, expectoration, dyspnée, toux chronique",46,0,66,28.4,13
+covid19,71,3,"toux sèche, myalgies, anosmie, fièvre",88,0,59,24.9,9
+copd,60,2,"expectoration, toux chronique",61,0,57,27.1,11
+eczema,57,3,"prurit, lésions, rougeur, sécheresse",7,0,78,31.0,7
+hypertension,19,3,"maux de tête, acouphènes, vertiges",212,1,97,20.9,9
+copd,47,2,"toux chronique, infections, expectoration, dyspnée",64,0,64,23.0,8
